@@ -76,14 +76,17 @@ The primary goal of this project is to:
 
 ---
 
+## 📂 Project Structure
+
+```
 competitor-ad-dashboard/
 │
-├── main.py # Main Streamlit application
-├── meta_ad_library_dataset.csv # Structured ad dataset (modeled sample data)
-├── README.md # Project documentation
+├── main.py                          # Main Streamlit application
+├── meta_ad_library_dataset.csv      # Structured ad dataset (modeled sample data)
+├── README.md                        # Project documentation
 └── assets/
-└── screenshot-dashboard.png # Dashboard screenshot
-
+    └── screenshot-dashboard.png     # Dashboard screenshot
+```
 
 ---
 
