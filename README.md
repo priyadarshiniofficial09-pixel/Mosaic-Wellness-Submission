@@ -139,4 +139,3 @@ Developed as a prototype competitor intelligence dashboard project.
 
 This project is developed for academic and demonstration purposes only.
 
-## 📂 Project Structure
