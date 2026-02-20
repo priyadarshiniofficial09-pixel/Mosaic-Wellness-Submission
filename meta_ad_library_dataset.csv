@@ -1,0 +1,1001 @@
+ad_id,brand_category,competitor_page,ad_creation_time,ad_creative_body,spend_lower_inr,spend_upper_inr,impressions_lower,impressions_upper,publisher_platform,region_distribution,target_age_group,cta_type,is_active
+AD_100000,Little Joys,Slurrp Farm,2025-10-24,Transform your hair naturally.,16662,23405,19030,87661,Messenger,India - South,35-44,Learn More,True
+AD_100001,Bebodywise,Nua Woman,2025-09-18,Flat 40% off on your first purchase.,6095,31817,27803,209073,Messenger,India - North,45-54,Sign Up,True
+AD_100002,Bebodywise,Nua Woman,2025-09-17,Transform your hair naturally.,4588,11742,50857,169146,Messenger,India - West,18-24,Learn More,False
+AD_100003,Bebodywise,Plix,2025-11-29,Transform your hair naturally.,9911,30677,19646,161324,Facebook,India - North,25-34,Sign Up,True
+AD_100004,Bebodywise,Plix,2025-12-21,Dermatologist tested and approved.,3738,5900,87386,263838,Instagram,India - North,18-24,Order Now,False
+AD_100005,Man Matters,Beardo,2025-09-22,Limited time offer! Get healthier skin today.,4889,26488,79702,164906,Facebook,India - West,25-34,Shop Now,True
+AD_100006,Man Matters,Beardo,2025-10-11,Doctor recommended wellness formula.,7229,10217,72545,139408,Audience Network,India - West,18-24,Shop Now,False
+AD_100007,Bebodywise,Setu Nutrition,2025-11-30,Flat 40% off on your first purchase.,13170,24763,81980,182026,Messenger,India - East,18-24,Learn More,True
+AD_100008,Little Joys,Brainiac,2025-12-28,Transform your hair naturally.,11175,34612,20939,92811,Instagram,India - West,45-54,Order Now,True
+AD_100009,Bebodywise,Setu Nutrition,2025-10-25,Boost immunity with natural ingredients.,6989,10419,14799,41775,Instagram,India - North,45-54,Sign Up,False
+AD_100010,Little Joys,Slurrp Farm,2025-12-24,Transform your hair naturally.,19744,27654,11832,78829,Facebook,India - South,35-44,Sign Up,False
+AD_100011,Man Matters,Traya,2025-09-03,Transform your hair naturally.,13457,32739,31996,210928,Facebook,India - West,18-24,Shop Now,True
+AD_100012,Man Matters,Traya,2025-12-04,Give your baby the best nutrition.,11029,17849,50894,112787,Messenger,India - East,18-24,Order Now,True
+AD_100013,Man Matters,The Man Company,2025-08-25,Feel confident every day.,1586,21728,88494,147946,Facebook,India - North,18-24,Order Now,True
+AD_100014,Little Joys,Brainiac,2025-11-03,Dermatologist tested and approved.,7501,25459,5423,99771,Messenger,India - North,35-44,Order Now,True
+AD_100015,Man Matters,Traya,2026-02-09,Transform your hair naturally.,10591,23330,93491,120420,Audience Network,India - West,35-44,Order Now,False
+AD_100016,Bebodywise,Nua Woman,2025-11-26,Flat 40% off on your first purchase.,1560,20439,94196,250426,Instagram,India - West,18-24,Shop Now,True
+AD_100017,Man Matters,The Man Company,2026-01-11,Clinically proven results in 30 days.,13949,31663,26602,123456,Audience Network,India - East,35-44,Sign Up,False
+AD_100018,Bebodywise,Setu Nutrition,2025-12-19,Dermatologist tested and approved.,7032,28789,78608,240966,Instagram,India - West,18-24,Learn More,True
+AD_100019,Little Joys,Slurrp Farm,2025-12-07,Boost immunity with natural ingredients.,9326,21600,77852,184932,Messenger,India - East,45-54,Sign Up,False
+AD_100020,Man Matters,The Man Company,2025-10-22,Dermatologist tested and approved.,17016,31659,47854,62437,Audience Network,India - South,25-34,Order Now,True
+AD_100021,Little Joys,Slurrp Farm,2025-10-20,Boost immunity with natural ingredients.,13271,36768,74543,269140,Instagram,India - North,18-24,Sign Up,True
+AD_100022,Man Matters,Beardo,2025-09-10,Doctor recommended wellness formula.,3596,31059,72198,271427,Audience Network,India - East,45-54,Shop Now,False
+AD_100023,Bebodywise,Setu Nutrition,2025-10-05,Limited time offer! Get healthier skin today.,2042,4687,21103,164184,Messenger,India - South,45-54,Learn More,False
+AD_100024,Bebodywise,Nua Woman,2025-09-06,Doctor recommended wellness formula.,16053,43829,25542,51956,Instagram,India - North,45-54,Order Now,True
+AD_100025,Bebodywise,Nua Woman,2025-11-21,Special festive discount live now.,9043,32744,7079,177954,Facebook,India - East,45-54,Shop Now,False
+AD_100026,Little Joys,Brainiac,2026-02-20,Boost immunity with natural ingredients.,8163,30377,11320,160855,Messenger,India - West,18-24,Order Now,True
+AD_100027,Man Matters,The Man Company,2025-12-23,Feel confident every day.,2419,5741,13892,180944,Audience Network,India - South,45-54,Sign Up,True
+AD_100028,Bebodywise,Nua Woman,2025-11-15,Feel confident every day.,4788,12939,65061,173491,Instagram,India - East,35-44,Order Now,False
+AD_100029,Little Joys,Brainiac,2025-11-06,Flat 40% off on your first purchase.,15780,30507,65474,202449,Audience Network,India - North,18-24,Learn More,True
+AD_100030,Bebodywise,Nua Woman,2025-11-05,Limited time offer! Get healthier skin today.,11554,33522,90004,224568,Messenger,India - South,35-44,Learn More,True
+AD_100031,Man Matters,Beardo,2026-02-10,Limited time offer! Get healthier skin today.,14342,36842,67939,197510,Instagram,India - South,18-24,Shop Now,False
+AD_100032,Bebodywise,Plix,2025-12-16,Doctor recommended wellness formula.,6773,27568,66172,153418,Audience Network,India - East,35-44,Order Now,False
+AD_100033,Little Joys,Supples,2025-11-10,Limited time offer! Get healthier skin today.,2555,16422,79077,198446,Instagram,India - North,18-24,Learn More,False
+AD_100034,Bebodywise,Nua Woman,2025-12-11,Doctor recommended wellness formula.,19725,49226,15052,71654,Facebook,India - South,45-54,Learn More,True
+AD_100035,Bebodywise,Nua Woman,2025-12-04,Clinically proven results in 30 days.,4689,8299,47822,101800,Instagram,India - East,45-54,Learn More,True
+AD_100036,Bebodywise,Setu Nutrition,2025-11-17,Doctor recommended wellness formula.,1604,13958,27018,88227,Audience Network,India - East,18-24,Shop Now,False
+AD_100037,Little Joys,Slurrp Farm,2025-12-19,Dermatologist tested and approved.,18972,45610,24975,56286,Messenger,India - East,25-34,Sign Up,False
+AD_100038,Bebodywise,Nua Woman,2025-08-30,Boost immunity with natural ingredients.,11494,34326,14145,57962,Instagram,India - North,35-44,Order Now,False
+AD_100039,Bebodywise,Setu Nutrition,2025-11-04,Special festive discount live now.,13674,35410,22857,144137,Messenger,India - South,45-54,Sign Up,False
+AD_100040,Little Joys,Slurrp Farm,2025-09-09,Clinically proven results in 30 days.,13471,34991,79225,259459,Facebook,India - West,25-34,Order Now,False
+AD_100041,Man Matters,Traya,2026-02-01,Feel confident every day.,17764,47252,77584,109610,Messenger,India - South,35-44,Order Now,True
+AD_100042,Little Joys,Brainiac,2025-09-07,Flat 40% off on your first purchase.,18645,27876,77100,207650,Facebook,India - East,18-24,Shop Now,False
+AD_100043,Bebodywise,Setu Nutrition,2025-12-03,Doctor recommended wellness formula.,17448,29308,95504,175788,Messenger,India - North,25-34,Shop Now,False
+AD_100044,Bebodywise,Setu Nutrition,2025-10-02,Flat 40% off on your first purchase.,2286,5402,57958,74744,Messenger,India - East,35-44,Shop Now,False
+AD_100045,Little Joys,Brainiac,2025-10-10,Clinically proven results in 30 days.,1010,13385,58023,134533,Instagram,India - West,18-24,Sign Up,True
+AD_100046,Little Joys,Brainiac,2026-02-13,Clinically proven results in 30 days.,4890,26747,32002,144972,Audience Network,India - North,18-24,Sign Up,False
+AD_100047,Bebodywise,Plix,2025-09-27,Special festive discount live now.,17104,26351,77016,108170,Instagram,India - South,18-24,Learn More,True
+AD_100048,Man Matters,The Man Company,2025-12-20,Special festive discount live now.,18444,37719,28833,141503,Audience Network,India - North,18-24,Learn More,False
+AD_100049,Little Joys,Slurrp Farm,2026-01-02,Give your baby the best nutrition.,17632,37664,80109,134687,Messenger,India - West,25-34,Learn More,False
+AD_100050,Little Joys,Supples,2025-11-30,Give your baby the best nutrition.,5239,33453,62886,193572,Facebook,India - North,45-54,Sign Up,True
+AD_100051,Bebodywise,Plix,2026-01-24,Dermatologist tested and approved.,14371,17037,6638,205071,Instagram,India - West,18-24,Shop Now,False
+AD_100052,Little Joys,Brainiac,2025-09-02,Dermatologist tested and approved.,7447,30196,59215,198623,Audience Network,India - South,45-54,Learn More,True
+AD_100053,Man Matters,Traya,2025-09-25,Flat 40% off on your first purchase.,11972,41686,71650,251967,Facebook,India - East,25-34,Sign Up,True
+AD_100054,Man Matters,Traya,2025-10-12,Transform your hair naturally.,10094,15947,81399,184664,Facebook,India - East,45-54,Order Now,True
+AD_100055,Bebodywise,Setu Nutrition,2025-09-30,Feel confident every day.,1261,11253,60792,97320,Instagram,India - North,45-54,Order Now,False
+AD_100056,Little Joys,Brainiac,2025-12-23,Give your baby the best nutrition.,15046,20649,60951,127572,Facebook,India - East,18-24,Order Now,True
+AD_100057,Bebodywise,Plix,2025-10-25,Transform your hair naturally.,15321,30508,57701,241745,Messenger,India - East,45-54,Order Now,False
+AD_100058,Bebodywise,Nua Woman,2025-09-21,Flat 40% off on your first purchase.,2411,7048,14697,195599,Instagram,India - West,25-34,Order Now,True
+AD_100059,Bebodywise,Plix,2025-09-26,Boost immunity with natural ingredients.,13208,26497,64513,232767,Messenger,India - North,25-34,Learn More,True
+AD_100060,Bebodywise,Plix,2025-08-25,Transform your hair naturally.,3665,18507,89991,200796,Audience Network,India - West,45-54,Order Now,False
+AD_100061,Man Matters,The Man Company,2025-08-25,Clinically proven results in 30 days.,17543,31334,18958,196822,Instagram,India - West,18-24,Learn More,False
+AD_100062,Little Joys,Brainiac,2025-09-03,Limited time offer! Get healthier skin today.,7130,29803,46727,160331,Facebook,India - West,18-24,Learn More,False
+AD_100063,Man Matters,Traya,2025-12-31,Doctor recommended wellness formula.,17956,21581,49587,209901,Messenger,India - West,35-44,Sign Up,True
+AD_100064,Little Joys,Supples,2025-10-09,Special festive discount live now.,12557,20054,86389,191829,Audience Network,India - North,25-34,Shop Now,True
+AD_100065,Man Matters,The Man Company,2025-10-24,Limited time offer! Get healthier skin today.,19048,22033,78068,241416,Instagram,India - East,25-34,Shop Now,False
+AD_100066,Man Matters,The Man Company,2026-01-19,Boost immunity with natural ingredients.,10260,36760,48101,168668,Audience Network,India - West,25-34,Sign Up,False
+AD_100067,Man Matters,The Man Company,2025-12-10,Dermatologist tested and approved.,14871,41325,43207,145707,Facebook,India - West,25-34,Sign Up,False
+AD_100068,Man Matters,Traya,2025-10-01,Doctor recommended wellness formula.,8678,16523,83797,185289,Instagram,India - North,45-54,Sign Up,True
+AD_100069,Man Matters,Traya,2025-11-16,Dermatologist tested and approved.,17607,22023,9259,70890,Facebook,India - West,25-34,Learn More,True
+AD_100070,Man Matters,The Man Company,2026-01-22,Limited time offer! Get healthier skin today.,8221,18583,91182,250999,Instagram,India - South,35-44,Order Now,False
+AD_100071,Man Matters,Beardo,2025-09-05,Doctor recommended wellness formula.,19177,42539,18959,110607,Facebook,India - North,35-44,Learn More,True
+AD_100072,Bebodywise,Nua Woman,2025-09-23,Doctor recommended wellness formula.,7358,12535,99775,176066,Audience Network,India - East,35-44,Shop Now,True
+AD_100073,Bebodywise,Nua Woman,2026-02-03,Special festive discount live now.,12423,21824,11733,151491,Audience Network,India - West,35-44,Learn More,True
+AD_100074,Man Matters,The Man Company,2026-02-05,Give your baby the best nutrition.,5487,32054,41865,164883,Instagram,India - South,45-54,Order Now,True
+AD_100075,Bebodywise,Plix,2026-01-31,Boost immunity with natural ingredients.,5340,32079,75778,193244,Instagram,India - North,35-44,Sign Up,True
+AD_100076,Bebodywise,Plix,2025-11-18,Clinically proven results in 30 days.,5531,19955,25532,166070,Audience Network,India - East,35-44,Shop Now,False
+AD_100077,Bebodywise,Setu Nutrition,2025-10-25,Flat 40% off on your first purchase.,18899,29077,8913,70447,Instagram,India - North,35-44,Order Now,False
+AD_100078,Little Joys,Supples,2025-09-16,Special festive discount live now.,18749,37283,94169,141805,Audience Network,India - South,25-34,Order Now,False
+AD_100079,Bebodywise,Nua Woman,2026-01-16,Clinically proven results in 30 days.,11788,14068,21304,77329,Facebook,India - South,25-34,Shop Now,True
+AD_100080,Bebodywise,Plix,2025-09-20,Limited time offer! Get healthier skin today.,3822,24027,96187,264700,Messenger,India - North,35-44,Order Now,True
+AD_100081,Man Matters,The Man Company,2025-11-26,Give your baby the best nutrition.,1186,12125,27677,124690,Facebook,India - North,25-34,Order Now,False
+AD_100082,Little Joys,Supples,2025-09-30,Doctor recommended wellness formula.,17592,36981,83709,201258,Audience Network,India - West,35-44,Shop Now,False
+AD_100083,Little Joys,Slurrp Farm,2026-02-13,Feel confident every day.,9069,28830,82276,96799,Instagram,India - East,25-34,Shop Now,True
+AD_100084,Bebodywise,Nua Woman,2025-12-05,Special festive discount live now.,11108,17668,35182,219007,Instagram,India - East,35-44,Shop Now,True
+AD_100085,Bebodywise,Setu Nutrition,2025-09-05,Limited time offer! Get healthier skin today.,14099,38119,85693,144218,Facebook,India - North,18-24,Shop Now,False
+AD_100086,Bebodywise,Setu Nutrition,2026-01-19,Transform your hair naturally.,16783,23686,66247,250628,Audience Network,India - South,35-44,Order Now,True
+AD_100087,Man Matters,The Man Company,2026-02-02,Transform your hair naturally.,7161,21779,35406,48852,Audience Network,India - East,18-24,Shop Now,False
+AD_100088,Little Joys,Supples,2026-01-30,Transform your hair naturally.,6217,20817,90897,251521,Audience Network,India - East,35-44,Order Now,False
+AD_100089,Bebodywise,Nua Woman,2025-11-28,Doctor recommended wellness formula.,6476,27148,30154,207897,Messenger,India - East,25-34,Shop Now,False
+AD_100090,Man Matters,Traya,2026-02-16,Feel confident every day.,2051,9749,52524,243933,Instagram,India - North,35-44,Order Now,True
+AD_100091,Bebodywise,Nua Woman,2025-12-22,Clinically proven results in 30 days.,14771,24055,59183,222958,Messenger,India - North,18-24,Sign Up,True
+AD_100092,Little Joys,Slurrp Farm,2025-11-19,Clinically proven results in 30 days.,17373,45339,7622,189108,Messenger,India - West,25-34,Sign Up,True
+AD_100093,Bebodywise,Setu Nutrition,2025-10-18,Feel confident every day.,3579,27231,23009,204899,Audience Network,India - East,25-34,Shop Now,True
+AD_100094,Little Joys,Slurrp Farm,2025-09-03,Limited time offer! Get healthier skin today.,1342,14795,87529,282399,Instagram,India - North,18-24,Shop Now,False
+AD_100095,Little Joys,Slurrp Farm,2025-12-04,Dermatologist tested and approved.,13192,19305,25208,133165,Instagram,India - North,25-34,Shop Now,True
+AD_100096,Little Joys,Brainiac,2026-02-09,Special festive discount live now.,8393,21937,91817,264124,Audience Network,India - East,25-34,Shop Now,True
+AD_100097,Bebodywise,Nua Woman,2025-11-14,Transform your hair naturally.,6645,30677,23579,124779,Audience Network,India - North,45-54,Sign Up,True
+AD_100098,Bebodywise,Nua Woman,2025-09-06,Limited time offer! Get healthier skin today.,2045,21693,12385,29625,Audience Network,India - West,25-34,Order Now,False
+AD_100099,Bebodywise,Plix,2025-10-08,Special festive discount live now.,8775,29573,89623,176124,Facebook,India - East,18-24,Sign Up,False
+AD_100100,Bebodywise,Nua Woman,2026-01-09,Doctor recommended wellness formula.,12049,29251,71721,244504,Messenger,India - East,18-24,Shop Now,True
+AD_100101,Little Joys,Brainiac,2025-10-26,Clinically proven results in 30 days.,14612,19923,97521,213574,Facebook,India - West,18-24,Learn More,True
+AD_100102,Little Joys,Supples,2026-02-01,Dermatologist tested and approved.,15286,30279,96010,200489,Audience Network,India - West,45-54,Sign Up,False
+AD_100103,Little Joys,Slurrp Farm,2026-01-04,Feel confident every day.,8256,34396,41057,118189,Instagram,India - South,45-54,Learn More,False
+AD_100104,Bebodywise,Plix,2025-09-11,Doctor recommended wellness formula.,15635,18997,30700,102068,Facebook,India - East,35-44,Order Now,True
+AD_100105,Little Joys,Brainiac,2025-11-06,Clinically proven results in 30 days.,1986,28480,54867,211944,Audience Network,India - North,45-54,Sign Up,False
+AD_100106,Bebodywise,Nua Woman,2025-10-12,Give your baby the best nutrition.,18125,35408,85162,148567,Messenger,India - North,45-54,Shop Now,True
+AD_100107,Bebodywise,Nua Woman,2025-10-26,Dermatologist tested and approved.,12733,29347,54336,227740,Audience Network,India - South,45-54,Sign Up,False
+AD_100108,Bebodywise,Nua Woman,2025-09-25,Flat 40% off on your first purchase.,9094,17908,98787,258832,Facebook,India - West,25-34,Sign Up,False
+AD_100109,Little Joys,Brainiac,2025-11-11,Flat 40% off on your first purchase.,5387,10717,56038,72044,Facebook,India - East,18-24,Shop Now,False
+AD_100110,Man Matters,The Man Company,2025-12-30,Doctor recommended wellness formula.,5216,27714,25407,176807,Messenger,India - East,45-54,Sign Up,False
+AD_100111,Little Joys,Slurrp Farm,2026-01-27,Limited time offer! Get healthier skin today.,4737,30729,61683,209329,Instagram,India - North,18-24,Learn More,True
+AD_100112,Man Matters,The Man Company,2025-09-05,Feel confident every day.,2982,7314,37380,65294,Messenger,India - South,25-34,Order Now,False
+AD_100113,Bebodywise,Plix,2025-11-20,Transform your hair naturally.,8318,13984,10389,29291,Messenger,India - North,35-44,Order Now,False
+AD_100114,Little Joys,Slurrp Farm,2025-11-10,Feel confident every day.,14882,37570,89121,202583,Facebook,India - North,45-54,Learn More,True
+AD_100115,Little Joys,Slurrp Farm,2026-01-13,Limited time offer! Get healthier skin today.,13475,42145,98433,112973,Instagram,India - South,45-54,Sign Up,True
+AD_100116,Bebodywise,Nua Woman,2025-10-02,Dermatologist tested and approved.,5048,9106,41862,150105,Instagram,India - East,18-24,Sign Up,False
+AD_100117,Little Joys,Slurrp Farm,2025-10-08,Give your baby the best nutrition.,16882,41843,16437,119490,Messenger,India - North,45-54,Learn More,False
+AD_100118,Little Joys,Supples,2025-12-18,Limited time offer! Get healthier skin today.,10972,40514,95211,216088,Audience Network,India - West,18-24,Sign Up,False
+AD_100119,Bebodywise,Nua Woman,2025-08-25,Limited time offer! Get healthier skin today.,16224,26644,69806,103099,Instagram,India - North,45-54,Shop Now,True
+AD_100120,Man Matters,Beardo,2025-12-09,Dermatologist tested and approved.,13988,25469,43771,62778,Instagram,India - East,18-24,Shop Now,False
+AD_100121,Man Matters,Beardo,2025-11-24,Limited time offer! Get healthier skin today.,7547,27547,76465,222107,Facebook,India - West,25-34,Order Now,False
+AD_100122,Bebodywise,Setu Nutrition,2025-08-30,Clinically proven results in 30 days.,6425,29117,84519,264993,Audience Network,India - South,35-44,Order Now,False
+AD_100123,Little Joys,Slurrp Farm,2026-02-07,Give your baby the best nutrition.,12187,34050,31620,44123,Audience Network,India - North,25-34,Shop Now,False
+AD_100124,Little Joys,Supples,2025-11-10,Clinically proven results in 30 days.,2707,13672,70030,223221,Instagram,India - South,25-34,Order Now,True
+AD_100125,Man Matters,Traya,2026-01-08,Transform your hair naturally.,19210,32588,55087,133950,Messenger,India - North,18-24,Shop Now,False
+AD_100126,Man Matters,The Man Company,2026-02-16,Doctor recommended wellness formula.,18956,48358,36495,99382,Instagram,India - East,25-34,Sign Up,True
+AD_100127,Man Matters,Traya,2025-08-25,Transform your hair naturally.,18205,43208,69106,153141,Instagram,India - East,25-34,Order Now,False
+AD_100128,Little Joys,Slurrp Farm,2026-02-12,Doctor recommended wellness formula.,18263,27224,50696,130786,Instagram,India - West,35-44,Learn More,True
+AD_100129,Man Matters,Traya,2025-12-07,Flat 40% off on your first purchase.,15680,45317,97187,188470,Facebook,India - North,18-24,Learn More,False
+AD_100130,Man Matters,Beardo,2025-12-26,Transform your hair naturally.,7598,18542,95187,136750,Instagram,India - East,35-44,Learn More,True
+AD_100131,Little Joys,Brainiac,2025-10-06,Feel confident every day.,16389,32969,85924,159354,Audience Network,India - North,45-54,Order Now,True
+AD_100132,Little Joys,Supples,2025-12-01,Give your baby the best nutrition.,6921,17410,61765,152133,Audience Network,India - West,18-24,Order Now,False
+AD_100133,Little Joys,Brainiac,2025-11-26,Transform your hair naturally.,11918,28767,11067,163017,Facebook,India - East,45-54,Order Now,False
+AD_100134,Man Matters,Beardo,2025-08-27,Feel confident every day.,9464,22502,6473,78145,Messenger,India - West,25-34,Order Now,True
+AD_100135,Little Joys,Slurrp Farm,2025-09-28,Special festive discount live now.,7731,26561,92071,196681,Facebook,India - North,35-44,Order Now,False
+AD_100136,Man Matters,Traya,2025-09-24,Doctor recommended wellness formula.,18621,45310,34660,99453,Messenger,India - South,25-34,Order Now,True
+AD_100137,Little Joys,Supples,2025-12-12,Flat 40% off on your first purchase.,8739,32377,78300,117554,Messenger,India - East,18-24,Order Now,True
+AD_100138,Man Matters,Traya,2025-09-03,Flat 40% off on your first purchase.,5104,30183,23414,155353,Messenger,India - North,25-34,Order Now,True
+AD_100139,Man Matters,Beardo,2025-11-10,Clinically proven results in 30 days.,12269,23382,23432,159780,Instagram,India - South,25-34,Order Now,True
+AD_100140,Man Matters,Traya,2025-09-23,Give your baby the best nutrition.,5885,32891,51673,160534,Instagram,India - South,45-54,Order Now,False
+AD_100141,Man Matters,Beardo,2025-12-26,Transform your hair naturally.,1563,8047,25770,184002,Facebook,India - South,18-24,Learn More,True
+AD_100142,Little Joys,Supples,2025-08-31,Flat 40% off on your first purchase.,10602,38457,43498,184127,Facebook,India - North,45-54,Learn More,True
+AD_100143,Little Joys,Brainiac,2025-12-15,Clinically proven results in 30 days.,16158,38648,71901,140058,Facebook,India - South,18-24,Order Now,True
+AD_100144,Bebodywise,Setu Nutrition,2026-02-06,Dermatologist tested and approved.,15322,43490,92190,192634,Messenger,India - West,25-34,Shop Now,True
+AD_100145,Man Matters,The Man Company,2026-01-26,Dermatologist tested and approved.,14184,23438,21606,210494,Facebook,India - West,35-44,Shop Now,False
+AD_100146,Bebodywise,Nua Woman,2025-11-17,Limited time offer! Get healthier skin today.,14707,39641,20926,211310,Facebook,India - West,45-54,Learn More,True
+AD_100147,Bebodywise,Nua Woman,2026-01-28,Boost immunity with natural ingredients.,5722,32641,36762,176288,Messenger,India - North,35-44,Order Now,False
+AD_100148,Little Joys,Brainiac,2026-01-17,Transform your hair naturally.,18224,39351,96775,114634,Messenger,India - West,45-54,Order Now,False
+AD_100149,Bebodywise,Plix,2026-02-16,Dermatologist tested and approved.,5792,12010,36224,100260,Messenger,India - North,45-54,Sign Up,True
+AD_100150,Bebodywise,Plix,2025-12-04,Clinically proven results in 30 days.,12441,38733,61192,161173,Facebook,India - West,35-44,Order Now,False
+AD_100151,Little Joys,Brainiac,2025-09-03,Flat 40% off on your first purchase.,8717,21382,51674,196352,Audience Network,India - East,35-44,Order Now,True
+AD_100152,Bebodywise,Nua Woman,2025-12-16,Doctor recommended wellness formula.,3193,7943,5895,77864,Audience Network,India - South,18-24,Shop Now,False
+AD_100153,Man Matters,Traya,2026-02-01,Give your baby the best nutrition.,5060,9429,43877,55600,Audience Network,India - North,18-24,Order Now,True
+AD_100154,Man Matters,The Man Company,2025-09-24,Flat 40% off on your first purchase.,13412,41524,36179,167460,Instagram,India - North,18-24,Sign Up,True
+AD_100155,Bebodywise,Plix,2026-02-14,Clinically proven results in 30 days.,11358,25905,17990,35363,Instagram,India - East,25-34,Learn More,True
+AD_100156,Man Matters,The Man Company,2026-01-11,Boost immunity with natural ingredients.,12353,22422,54516,71254,Audience Network,India - East,25-34,Order Now,False
+AD_100157,Little Joys,Brainiac,2025-10-07,Flat 40% off on your first purchase.,18125,39407,57614,92385,Messenger,India - North,25-34,Sign Up,True
+AD_100158,Little Joys,Slurrp Farm,2025-09-12,Feel confident every day.,1208,30282,40746,69490,Instagram,India - West,45-54,Learn More,False
+AD_100159,Little Joys,Brainiac,2025-10-02,Special festive discount live now.,12076,34229,14274,87918,Instagram,India - East,25-34,Sign Up,False
+AD_100160,Bebodywise,Plix,2025-11-13,Flat 40% off on your first purchase.,18135,41091,49621,130912,Audience Network,India - North,35-44,Learn More,False
+AD_100161,Bebodywise,Setu Nutrition,2025-11-20,Special festive discount live now.,8311,21396,55873,191850,Instagram,India - North,35-44,Order Now,True
+AD_100162,Little Joys,Supples,2025-11-16,Transform your hair naturally.,8954,38451,88028,165364,Instagram,India - East,35-44,Sign Up,True
+AD_100163,Bebodywise,Plix,2025-11-01,Dermatologist tested and approved.,13025,32799,74754,100222,Audience Network,India - East,45-54,Shop Now,False
+AD_100164,Little Joys,Brainiac,2025-09-12,Feel confident every day.,9418,32153,89636,243870,Audience Network,India - East,25-34,Shop Now,True
+AD_100165,Man Matters,The Man Company,2025-12-21,Give your baby the best nutrition.,14202,19529,90269,242902,Facebook,India - East,45-54,Order Now,False
+AD_100166,Little Joys,Brainiac,2025-11-02,Give your baby the best nutrition.,9067,16551,65707,85887,Messenger,India - West,35-44,Order Now,False
+AD_100167,Man Matters,The Man Company,2025-09-06,Transform your hair naturally.,11313,29406,52098,212016,Messenger,India - North,35-44,Sign Up,False
+AD_100168,Bebodywise,Plix,2026-02-05,Boost immunity with natural ingredients.,17258,19324,75436,235306,Facebook,India - West,35-44,Learn More,True
+AD_100169,Bebodywise,Setu Nutrition,2026-01-30,Limited time offer! Get healthier skin today.,17998,42478,78282,204792,Messenger,India - West,18-24,Sign Up,True
+AD_100170,Little Joys,Brainiac,2025-08-31,Feel confident every day.,8912,14700,53705,163615,Audience Network,India - West,25-34,Sign Up,False
+AD_100171,Bebodywise,Setu Nutrition,2025-11-25,Give your baby the best nutrition.,11815,22590,71758,136729,Facebook,India - West,35-44,Order Now,True
+AD_100172,Little Joys,Supples,2025-08-26,Boost immunity with natural ingredients.,5940,27144,12851,43287,Instagram,India - East,18-24,Sign Up,False
+AD_100173,Little Joys,Slurrp Farm,2025-10-01,Feel confident every day.,2326,17858,49963,120555,Messenger,India - South,35-44,Order Now,False
+AD_100174,Man Matters,The Man Company,2025-11-13,Special festive discount live now.,19117,43626,99033,142141,Audience Network,India - North,45-54,Learn More,True
+AD_100175,Man Matters,The Man Company,2025-11-20,Dermatologist tested and approved.,16950,37609,37843,197883,Facebook,India - South,45-54,Order Now,False
+AD_100176,Little Joys,Supples,2026-01-23,Flat 40% off on your first purchase.,7702,26643,43668,127630,Audience Network,India - East,18-24,Order Now,True
+AD_100177,Little Joys,Slurrp Farm,2026-01-19,Boost immunity with natural ingredients.,5876,26309,9979,80317,Facebook,India - North,45-54,Order Now,False
+AD_100178,Bebodywise,Setu Nutrition,2026-01-12,Boost immunity with natural ingredients.,6284,27514,69907,238720,Audience Network,India - East,18-24,Sign Up,True
+AD_100179,Little Joys,Slurrp Farm,2025-09-01,Limited time offer! Get healthier skin today.,9663,27391,51120,191695,Audience Network,India - East,45-54,Learn More,False
+AD_100180,Little Joys,Brainiac,2025-10-27,Boost immunity with natural ingredients.,11102,38073,57861,132005,Facebook,India - West,45-54,Sign Up,False
+AD_100181,Bebodywise,Setu Nutrition,2025-08-26,Boost immunity with natural ingredients.,12922,18618,23988,122015,Instagram,India - North,18-24,Learn More,False
+AD_100182,Bebodywise,Setu Nutrition,2025-09-01,Feel confident every day.,13757,29281,16205,168825,Messenger,India - South,25-34,Order Now,False
+AD_100183,Little Joys,Brainiac,2026-02-05,Special festive discount live now.,6695,9101,66396,111126,Messenger,India - East,45-54,Learn More,False
+AD_100184,Little Joys,Slurrp Farm,2025-10-24,Transform your hair naturally.,12256,15702,14505,194158,Messenger,India - West,25-34,Order Now,True
+AD_100185,Bebodywise,Nua Woman,2025-08-25,Special festive discount live now.,16302,28769,35768,110722,Messenger,India - West,35-44,Shop Now,False
+AD_100186,Little Joys,Supples,2025-12-08,Limited time offer! Get healthier skin today.,3225,17267,53754,155598,Audience Network,India - South,45-54,Shop Now,True
+AD_100187,Little Joys,Brainiac,2025-09-24,Doctor recommended wellness formula.,12935,26675,33759,181919,Facebook,India - East,18-24,Learn More,False
+AD_100188,Bebodywise,Nua Woman,2026-02-16,Clinically proven results in 30 days.,3098,15679,46435,138929,Audience Network,India - West,45-54,Order Now,True
+AD_100189,Little Joys,Brainiac,2026-01-31,Clinically proven results in 30 days.,7615,29831,74697,224624,Audience Network,India - East,25-34,Learn More,True
+AD_100190,Bebodywise,Setu Nutrition,2025-09-02,Boost immunity with natural ingredients.,18328,27519,11753,90671,Messenger,India - East,35-44,Sign Up,False
+AD_100191,Bebodywise,Setu Nutrition,2026-01-19,Give your baby the best nutrition.,12953,41930,69305,267430,Instagram,India - North,18-24,Shop Now,True
+AD_100192,Bebodywise,Setu Nutrition,2026-02-12,Special festive discount live now.,13140,23359,36926,130271,Instagram,India - East,45-54,Shop Now,True
+AD_100193,Bebodywise,Setu Nutrition,2025-09-29,Special festive discount live now.,9514,22157,5425,48959,Messenger,India - South,45-54,Learn More,False
+AD_100194,Bebodywise,Plix,2025-12-03,Give your baby the best nutrition.,17443,23424,23135,148909,Audience Network,India - South,18-24,Sign Up,False
+AD_100195,Man Matters,The Man Company,2025-11-06,Boost immunity with natural ingredients.,8745,20415,24190,102099,Audience Network,India - West,45-54,Shop Now,False
+AD_100196,Little Joys,Supples,2025-12-11,Limited time offer! Get healthier skin today.,3446,29469,66909,260159,Instagram,India - North,45-54,Learn More,False
+AD_100197,Little Joys,Supples,2026-02-16,Clinically proven results in 30 days.,10640,33562,28098,47253,Facebook,India - South,35-44,Learn More,True
+AD_100198,Man Matters,The Man Company,2025-08-26,Clinically proven results in 30 days.,16939,28437,77934,218493,Messenger,India - North,35-44,Learn More,True
+AD_100199,Little Joys,Brainiac,2026-02-02,Feel confident every day.,16801,37308,19820,100094,Audience Network,India - East,45-54,Sign Up,False
+AD_100200,Little Joys,Supples,2025-12-28,Give your baby the best nutrition.,5246,23134,77351,114473,Audience Network,India - East,45-54,Learn More,True
+AD_100201,Man Matters,Traya,2025-09-03,Flat 40% off on your first purchase.,17115,36843,18428,115853,Audience Network,India - East,25-34,Learn More,True
+AD_100202,Man Matters,The Man Company,2026-01-23,Give your baby the best nutrition.,6312,15317,44883,189891,Audience Network,India - North,45-54,Learn More,False
+AD_100203,Man Matters,Traya,2025-10-11,Clinically proven results in 30 days.,4969,23818,92910,163803,Messenger,India - East,25-34,Learn More,True
+AD_100204,Bebodywise,Nua Woman,2025-10-02,Feel confident every day.,11945,36087,55206,83003,Audience Network,India - North,18-24,Sign Up,False
+AD_100205,Little Joys,Supples,2025-09-15,Flat 40% off on your first purchase.,16924,37374,25935,215904,Facebook,India - West,45-54,Order Now,False
+AD_100206,Little Joys,Brainiac,2026-01-13,Doctor recommended wellness formula.,15343,30775,42498,68360,Facebook,India - South,18-24,Shop Now,True
+AD_100207,Bebodywise,Setu Nutrition,2025-11-30,Dermatologist tested and approved.,11790,30385,18815,114749,Audience Network,India - West,35-44,Shop Now,False
+AD_100208,Man Matters,The Man Company,2026-01-02,Flat 40% off on your first purchase.,15012,25624,65638,125532,Audience Network,India - West,35-44,Shop Now,False
+AD_100209,Man Matters,Beardo,2025-12-29,Flat 40% off on your first purchase.,14876,17668,99557,289428,Audience Network,India - South,25-34,Learn More,False
+AD_100210,Man Matters,The Man Company,2025-08-30,Flat 40% off on your first purchase.,19743,35766,67070,110770,Messenger,India - West,35-44,Order Now,True
+AD_100211,Man Matters,Traya,2025-09-17,Feel confident every day.,17585,20487,39332,108608,Facebook,India - East,25-34,Shop Now,True
+AD_100212,Little Joys,Brainiac,2025-12-17,Limited time offer! Get healthier skin today.,7945,33129,44946,188185,Instagram,India - South,45-54,Shop Now,True
+AD_100213,Man Matters,The Man Company,2025-10-05,Boost immunity with natural ingredients.,9058,14039,11863,208989,Facebook,India - East,35-44,Shop Now,False
+AD_100214,Little Joys,Slurrp Farm,2026-01-10,Clinically proven results in 30 days.,16131,24021,46173,206375,Messenger,India - East,25-34,Shop Now,True
+AD_100215,Man Matters,Beardo,2025-09-28,Dermatologist tested and approved.,14579,17100,88159,145113,Audience Network,India - West,35-44,Learn More,True
+AD_100216,Little Joys,Slurrp Farm,2025-09-01,Transform your hair naturally.,5123,15880,33112,69180,Messenger,India - North,18-24,Shop Now,True
+AD_100217,Man Matters,The Man Company,2026-01-22,Boost immunity with natural ingredients.,5315,35264,94070,108563,Audience Network,India - South,45-54,Sign Up,True
+AD_100218,Man Matters,The Man Company,2025-12-08,Doctor recommended wellness formula.,15143,40330,71702,194893,Audience Network,India - East,18-24,Learn More,False
+AD_100219,Man Matters,Traya,2025-11-30,Special festive discount live now.,19691,49290,42088,207002,Instagram,India - North,25-34,Sign Up,False
+AD_100220,Man Matters,Traya,2026-01-29,Doctor recommended wellness formula.,1830,8146,77624,261324,Instagram,India - North,45-54,Sign Up,True
+AD_100221,Bebodywise,Plix,2026-01-30,Boost immunity with natural ingredients.,6987,13893,82004,240929,Instagram,India - East,25-34,Shop Now,True
+AD_100222,Little Joys,Slurrp Farm,2025-09-28,Doctor recommended wellness formula.,1597,15208,26668,169861,Messenger,India - North,25-34,Order Now,True
+AD_100223,Little Joys,Slurrp Farm,2026-01-19,Clinically proven results in 30 days.,11457,16688,72715,134306,Instagram,India - South,25-34,Order Now,False
+AD_100224,Little Joys,Slurrp Farm,2025-11-12,Boost immunity with natural ingredients.,10181,39920,68376,93744,Instagram,India - East,18-24,Sign Up,True
+AD_100225,Man Matters,Traya,2025-09-23,Boost immunity with natural ingredients.,5899,24380,51712,78832,Messenger,India - North,45-54,Learn More,True
+AD_100226,Man Matters,The Man Company,2025-08-29,Limited time offer! Get healthier skin today.,2655,30920,86124,239556,Audience Network,India - East,18-24,Order Now,True
+AD_100227,Little Joys,Slurrp Farm,2025-08-28,Dermatologist tested and approved.,8417,19010,76362,150641,Audience Network,India - North,45-54,Sign Up,False
+AD_100228,Little Joys,Slurrp Farm,2025-09-02,Boost immunity with natural ingredients.,11016,31669,45845,156820,Facebook,India - South,18-24,Sign Up,True
+AD_100229,Bebodywise,Nua Woman,2026-02-03,Clinically proven results in 30 days.,9190,33974,21693,155048,Instagram,India - East,25-34,Sign Up,False
+AD_100230,Bebodywise,Setu Nutrition,2025-10-14,Limited time offer! Get healthier skin today.,7818,18945,52606,66053,Messenger,India - North,18-24,Shop Now,False
+AD_100231,Little Joys,Brainiac,2026-02-10,Doctor recommended wellness formula.,3225,11292,91900,123353,Audience Network,India - North,18-24,Order Now,False
+AD_100232,Little Joys,Slurrp Farm,2025-10-02,Flat 40% off on your first purchase.,13991,29350,23430,199673,Messenger,India - South,25-34,Shop Now,True
+AD_100233,Little Joys,Supples,2026-01-30,Limited time offer! Get healthier skin today.,7666,30913,55452,151589,Facebook,India - North,18-24,Learn More,False
+AD_100234,Bebodywise,Nua Woman,2025-12-30,Transform your hair naturally.,2012,14046,24914,194166,Audience Network,India - South,25-34,Order Now,False
+AD_100235,Little Joys,Slurrp Farm,2025-08-24,Doctor recommended wellness formula.,6935,14704,33819,212275,Facebook,India - South,35-44,Order Now,False
+AD_100236,Man Matters,Traya,2025-12-11,Feel confident every day.,10603,23261,36301,234393,Facebook,India - East,45-54,Learn More,True
+AD_100237,Man Matters,Beardo,2025-11-19,Doctor recommended wellness formula.,12523,20421,90547,114585,Instagram,India - West,35-44,Learn More,True
+AD_100238,Little Joys,Brainiac,2026-01-30,Boost immunity with natural ingredients.,5585,32236,18562,36861,Facebook,India - East,18-24,Sign Up,True
+AD_100239,Bebodywise,Plix,2025-09-07,Doctor recommended wellness formula.,16296,44786,10584,151382,Instagram,India - North,35-44,Order Now,False
+AD_100240,Little Joys,Supples,2025-11-10,Transform your hair naturally.,1033,24518,45410,125152,Facebook,India - South,18-24,Learn More,False
+AD_100241,Little Joys,Brainiac,2025-10-29,Transform your hair naturally.,11060,32917,54626,87951,Instagram,India - West,35-44,Learn More,False
+AD_100242,Man Matters,Traya,2026-01-05,Transform your hair naturally.,19819,29695,5966,158465,Audience Network,India - West,25-34,Sign Up,False
+AD_100243,Little Joys,Supples,2025-09-06,Give your baby the best nutrition.,9632,37647,56309,160115,Facebook,India - East,18-24,Shop Now,True
+AD_100244,Little Joys,Supples,2025-09-19,Boost immunity with natural ingredients.,4372,14935,68063,118303,Facebook,India - West,35-44,Shop Now,True
+AD_100245,Little Joys,Brainiac,2025-12-12,Limited time offer! Get healthier skin today.,3050,23288,49391,119633,Messenger,India - South,25-34,Sign Up,True
+AD_100246,Bebodywise,Nua Woman,2026-01-15,Clinically proven results in 30 days.,12658,29496,38997,91893,Facebook,India - South,45-54,Order Now,True
+AD_100247,Man Matters,The Man Company,2025-10-22,Feel confident every day.,5197,12007,64161,177115,Facebook,India - South,25-34,Sign Up,False
+AD_100248,Man Matters,Beardo,2025-10-30,Give your baby the best nutrition.,7627,16960,80679,141211,Audience Network,India - West,25-34,Shop Now,False
+AD_100249,Little Joys,Slurrp Farm,2025-11-08,Flat 40% off on your first purchase.,7545,19865,53310,245633,Instagram,India - East,18-24,Sign Up,False
+AD_100250,Man Matters,Traya,2025-10-24,Clinically proven results in 30 days.,6621,11848,82596,175552,Audience Network,India - North,45-54,Order Now,False
+AD_100251,Little Joys,Slurrp Farm,2026-01-22,Dermatologist tested and approved.,13280,15298,77034,149719,Messenger,India - South,45-54,Sign Up,False
+AD_100252,Little Joys,Supples,2025-08-25,Special festive discount live now.,9604,18535,6151,147710,Messenger,India - West,35-44,Shop Now,False
+AD_100253,Man Matters,Traya,2026-01-22,Dermatologist tested and approved.,5479,32057,81759,210462,Audience Network,India - East,25-34,Sign Up,True
+AD_100254,Man Matters,Traya,2026-01-27,Flat 40% off on your first purchase.,2218,21277,83933,244595,Audience Network,India - West,45-54,Shop Now,False
+AD_100255,Little Joys,Brainiac,2026-01-10,Special festive discount live now.,2693,28876,78845,126502,Instagram,India - East,45-54,Order Now,True
+AD_100256,Man Matters,The Man Company,2025-10-29,Flat 40% off on your first purchase.,1861,30117,86215,137863,Facebook,India - East,18-24,Learn More,True
+AD_100257,Bebodywise,Setu Nutrition,2026-02-18,Dermatologist tested and approved.,1804,26596,74193,247568,Instagram,India - East,45-54,Order Now,False
+AD_100258,Bebodywise,Plix,2026-01-29,Limited time offer! Get healthier skin today.,2702,11770,39269,235708,Audience Network,India - North,18-24,Sign Up,False
+AD_100259,Man Matters,The Man Company,2025-08-30,Limited time offer! Get healthier skin today.,7735,35088,46119,212628,Messenger,India - South,18-24,Shop Now,False
+AD_100260,Little Joys,Supples,2025-11-01,Doctor recommended wellness formula.,19906,49715,47098,77242,Facebook,India - West,35-44,Learn More,True
+AD_100261,Bebodywise,Nua Woman,2025-09-14,Doctor recommended wellness formula.,15953,30990,10630,104128,Instagram,India - North,25-34,Shop Now,False
+AD_100262,Man Matters,Beardo,2026-01-10,Give your baby the best nutrition.,1725,20611,69992,103855,Facebook,India - East,45-54,Shop Now,True
+AD_100263,Bebodywise,Setu Nutrition,2025-10-23,Flat 40% off on your first purchase.,2295,30226,46639,214275,Instagram,India - West,25-34,Learn More,True
+AD_100264,Man Matters,Traya,2026-01-01,Dermatologist tested and approved.,5949,26481,26851,100019,Audience Network,India - West,45-54,Shop Now,False
+AD_100265,Man Matters,Traya,2025-11-14,Give your baby the best nutrition.,19710,27100,68029,190616,Messenger,India - West,18-24,Order Now,False
+AD_100266,Man Matters,Beardo,2025-09-10,Limited time offer! Get healthier skin today.,14679,36639,14216,150938,Facebook,India - South,35-44,Learn More,False
+AD_100267,Man Matters,The Man Company,2025-09-20,Feel confident every day.,5611,30340,12195,68195,Messenger,India - South,45-54,Order Now,True
+AD_100268,Man Matters,Beardo,2026-01-28,Special festive discount live now.,6232,24976,62524,205892,Facebook,India - West,45-54,Sign Up,True
+AD_100269,Little Joys,Brainiac,2025-09-21,Give your baby the best nutrition.,3383,16854,24855,97688,Audience Network,India - West,45-54,Sign Up,True
+AD_100270,Bebodywise,Plix,2026-01-08,Dermatologist tested and approved.,4892,11196,88812,174789,Messenger,India - South,18-24,Shop Now,True
+AD_100271,Man Matters,Beardo,2025-11-10,Limited time offer! Get healthier skin today.,12374,20910,80125,276314,Facebook,India - North,45-54,Sign Up,True
+AD_100272,Little Joys,Slurrp Farm,2025-08-24,Limited time offer! Get healthier skin today.,11733,24981,82440,169312,Audience Network,India - North,25-34,Learn More,False
+AD_100273,Bebodywise,Setu Nutrition,2025-09-07,Boost immunity with natural ingredients.,17488,21512,21462,220080,Facebook,India - South,18-24,Order Now,True
+AD_100274,Bebodywise,Nua Woman,2026-02-17,Give your baby the best nutrition.,19795,40600,70581,173126,Audience Network,India - East,35-44,Sign Up,True
+AD_100275,Man Matters,Traya,2026-02-17,Transform your hair naturally.,5976,16088,42278,211789,Messenger,India - North,25-34,Learn More,False
+AD_100276,Little Joys,Supples,2025-11-04,Special festive discount live now.,13324,17854,61060,120881,Audience Network,India - North,18-24,Shop Now,False
+AD_100277,Little Joys,Brainiac,2025-11-28,Special festive discount live now.,16680,43926,43999,165829,Instagram,India - South,18-24,Learn More,False
+AD_100278,Man Matters,Beardo,2026-01-10,Special festive discount live now.,9965,20396,48733,158944,Messenger,India - East,18-24,Learn More,True
+AD_100279,Little Joys,Supples,2025-11-05,Special festive discount live now.,3306,27036,19731,79024,Messenger,India - East,45-54,Learn More,False
+AD_100280,Little Joys,Slurrp Farm,2025-11-26,Feel confident every day.,7010,28457,47457,114071,Messenger,India - South,18-24,Shop Now,True
+AD_100281,Bebodywise,Setu Nutrition,2025-10-31,Transform your hair naturally.,1704,21844,68501,81490,Instagram,India - South,45-54,Order Now,False
+AD_100282,Man Matters,Beardo,2026-01-18,Transform your hair naturally.,19504,37316,65836,132468,Instagram,India - East,25-34,Shop Now,False
+AD_100283,Man Matters,Beardo,2026-01-24,Transform your hair naturally.,14581,24749,80798,268781,Messenger,India - North,18-24,Shop Now,False
+AD_100284,Man Matters,The Man Company,2025-10-20,Feel confident every day.,18248,34178,31499,212778,Audience Network,India - East,25-34,Shop Now,False
+AD_100285,Man Matters,The Man Company,2025-09-03,Dermatologist tested and approved.,9367,20369,51614,188539,Messenger,India - East,35-44,Sign Up,True
+AD_100286,Man Matters,Beardo,2025-09-25,Doctor recommended wellness formula.,13302,38917,15730,61619,Instagram,India - North,45-54,Order Now,False
+AD_100287,Little Joys,Slurrp Farm,2025-11-14,Special festive discount live now.,7380,22887,69573,243953,Instagram,India - North,35-44,Learn More,False
+AD_100288,Bebodywise,Setu Nutrition,2025-12-10,Doctor recommended wellness formula.,11928,35612,62744,104809,Messenger,India - East,18-24,Learn More,True
+AD_100289,Little Joys,Supples,2025-12-09,Flat 40% off on your first purchase.,16194,32053,55952,230534,Facebook,India - East,18-24,Sign Up,True
+AD_100290,Little Joys,Slurrp Farm,2026-02-16,Give your baby the best nutrition.,12824,36582,85462,176322,Messenger,India - North,45-54,Order Now,False
+AD_100291,Man Matters,The Man Company,2025-10-21,Dermatologist tested and approved.,13364,18960,19848,184839,Audience Network,India - West,45-54,Learn More,False
+AD_100292,Man Matters,The Man Company,2025-09-11,Clinically proven results in 30 days.,4615,21656,26168,201824,Messenger,India - South,18-24,Sign Up,False
+AD_100293,Little Joys,Slurrp Farm,2026-02-07,Dermatologist tested and approved.,18056,28750,97779,214431,Audience Network,India - South,45-54,Learn More,False
+AD_100294,Little Joys,Brainiac,2025-10-30,Boost immunity with natural ingredients.,10782,29920,63801,237256,Messenger,India - South,25-34,Order Now,True
+AD_100295,Man Matters,Traya,2025-12-24,Special festive discount live now.,8617,20186,41596,157931,Instagram,India - East,25-34,Learn More,True
+AD_100296,Man Matters,Traya,2025-12-19,Boost immunity with natural ingredients.,16213,45106,81849,268813,Messenger,India - East,25-34,Learn More,True
+AD_100297,Man Matters,Beardo,2025-10-17,Clinically proven results in 30 days.,12072,34853,55111,170654,Messenger,India - North,35-44,Shop Now,True
+AD_100298,Man Matters,Beardo,2025-10-16,Transform your hair naturally.,19122,40742,58131,217744,Instagram,India - North,18-24,Shop Now,True
+AD_100299,Man Matters,Beardo,2025-09-29,Feel confident every day.,10223,18789,35551,222062,Messenger,India - West,45-54,Learn More,True
+AD_100300,Little Joys,Brainiac,2025-10-07,Dermatologist tested and approved.,2807,29053,55731,140593,Audience Network,India - South,25-34,Shop Now,False
+AD_100301,Man Matters,Beardo,2025-12-13,Transform your hair naturally.,15602,37754,60419,144971,Messenger,India - West,18-24,Order Now,True
+AD_100302,Bebodywise,Nua Woman,2025-10-03,Feel confident every day.,5841,33716,59635,132920,Facebook,India - West,25-34,Order Now,True
+AD_100303,Bebodywise,Nua Woman,2025-12-10,Special festive discount live now.,4876,12704,96598,276677,Audience Network,India - North,35-44,Sign Up,False
+AD_100304,Bebodywise,Nua Woman,2025-12-23,Doctor recommended wellness formula.,18783,39897,97406,169389,Instagram,India - East,45-54,Sign Up,True
+AD_100305,Man Matters,Beardo,2025-08-29,Limited time offer! Get healthier skin today.,19689,24012,20812,73478,Facebook,India - South,18-24,Sign Up,True
+AD_100306,Bebodywise,Plix,2026-01-15,Flat 40% off on your first purchase.,10926,13703,69581,262556,Messenger,India - South,18-24,Learn More,True
+AD_100307,Bebodywise,Nua Woman,2025-11-01,Doctor recommended wellness formula.,10189,39827,86205,100862,Messenger,India - South,35-44,Sign Up,True
+AD_100308,Little Joys,Supples,2026-02-18,Transform your hair naturally.,16686,32884,83766,142423,Instagram,India - South,25-34,Learn More,True
+AD_100309,Bebodywise,Plix,2025-11-18,Flat 40% off on your first purchase.,11645,30352,55243,77424,Audience Network,India - North,18-24,Shop Now,False
+AD_100310,Little Joys,Supples,2025-09-10,Limited time offer! Get healthier skin today.,7914,33137,25486,118808,Instagram,India - North,45-54,Sign Up,True
+AD_100311,Little Joys,Brainiac,2025-12-24,Give your baby the best nutrition.,14085,24334,16812,145457,Audience Network,India - South,18-24,Sign Up,True
+AD_100312,Little Joys,Slurrp Farm,2026-02-04,Feel confident every day.,16070,39709,75219,157007,Audience Network,India - North,35-44,Order Now,False
+AD_100313,Bebodywise,Nua Woman,2026-02-13,Transform your hair naturally.,11529,40355,18479,182643,Instagram,India - South,45-54,Order Now,False
+AD_100314,Little Joys,Brainiac,2025-12-19,Limited time offer! Get healthier skin today.,10315,19086,5792,23776,Messenger,India - South,25-34,Sign Up,True
+AD_100315,Little Joys,Supples,2025-09-10,Boost immunity with natural ingredients.,14562,18539,48416,224471,Audience Network,India - North,35-44,Sign Up,False
+AD_100316,Bebodywise,Setu Nutrition,2025-12-24,Give your baby the best nutrition.,2296,13150,10191,193204,Instagram,India - North,18-24,Order Now,True
+AD_100317,Man Matters,Beardo,2025-08-29,Boost immunity with natural ingredients.,11719,26274,11495,111541,Audience Network,India - North,18-24,Sign Up,False
+AD_100318,Man Matters,Traya,2026-01-11,Doctor recommended wellness formula.,18359,35970,50258,159327,Instagram,India - South,25-34,Order Now,True
+AD_100319,Bebodywise,Plix,2026-02-08,Limited time offer! Get healthier skin today.,5223,16962,67211,198029,Facebook,India - East,35-44,Sign Up,True
+AD_100320,Little Joys,Slurrp Farm,2025-11-18,Doctor recommended wellness formula.,2888,19077,87408,251618,Facebook,India - North,18-24,Sign Up,False
+AD_100321,Man Matters,Beardo,2026-02-06,Boost immunity with natural ingredients.,18776,27890,21220,41199,Instagram,India - North,25-34,Order Now,True
+AD_100322,Little Joys,Slurrp Farm,2025-10-10,Clinically proven results in 30 days.,11412,24264,80579,226446,Audience Network,India - North,45-54,Sign Up,True
+AD_100323,Little Joys,Supples,2026-01-07,Special festive discount live now.,12738,37686,92890,258936,Facebook,India - East,18-24,Order Now,False
+AD_100324,Man Matters,Traya,2025-10-31,Flat 40% off on your first purchase.,11275,22797,92696,189300,Facebook,India - East,25-34,Order Now,True
+AD_100325,Little Joys,Brainiac,2025-10-20,Limited time offer! Get healthier skin today.,3294,15670,25337,192096,Facebook,India - North,18-24,Learn More,False
+AD_100326,Little Joys,Brainiac,2025-11-19,Limited time offer! Get healthier skin today.,7709,13990,85588,202013,Audience Network,India - South,35-44,Order Now,True
+AD_100327,Man Matters,Beardo,2025-10-27,Transform your hair naturally.,7143,9832,64764,247476,Instagram,India - South,35-44,Sign Up,True
+AD_100328,Man Matters,Beardo,2025-09-12,Give your baby the best nutrition.,2528,24975,28714,162180,Instagram,India - East,35-44,Order Now,False
+AD_100329,Bebodywise,Setu Nutrition,2025-10-12,Clinically proven results in 30 days.,17483,21122,43819,132107,Facebook,India - North,18-24,Order Now,False
+AD_100330,Little Joys,Supples,2025-11-07,Doctor recommended wellness formula.,17428,41992,76283,112779,Audience Network,India - East,25-34,Shop Now,False
+AD_100331,Man Matters,Beardo,2026-02-18,Give your baby the best nutrition.,6800,36239,7815,98445,Messenger,India - East,35-44,Learn More,False
+AD_100332,Bebodywise,Nua Woman,2025-09-03,Boost immunity with natural ingredients.,12816,18104,25582,125828,Instagram,India - South,35-44,Order Now,True
+AD_100333,Bebodywise,Nua Woman,2025-12-20,Boost immunity with natural ingredients.,19371,41940,30921,151390,Messenger,India - North,45-54,Sign Up,True
+AD_100334,Little Joys,Slurrp Farm,2026-01-31,Transform your hair naturally.,19949,33355,26213,151303,Facebook,India - East,45-54,Learn More,False
+AD_100335,Bebodywise,Nua Woman,2025-10-01,Limited time offer! Get healthier skin today.,15474,41390,99791,111284,Messenger,India - East,45-54,Sign Up,False
+AD_100336,Bebodywise,Setu Nutrition,2025-09-20,Limited time offer! Get healthier skin today.,14136,21033,64211,140460,Instagram,India - South,18-24,Sign Up,False
+AD_100337,Little Joys,Slurrp Farm,2025-10-16,Feel confident every day.,14145,24833,6117,153638,Audience Network,India - North,18-24,Sign Up,True
+AD_100338,Man Matters,Beardo,2025-11-08,Limited time offer! Get healthier skin today.,9919,12913,57790,179614,Audience Network,India - West,18-24,Sign Up,True
+AD_100339,Man Matters,Traya,2025-08-25,Feel confident every day.,9017,28038,15607,198975,Instagram,India - South,35-44,Shop Now,True
+AD_100340,Man Matters,Beardo,2025-09-22,Feel confident every day.,3183,17240,25063,213827,Audience Network,India - West,18-24,Order Now,True
+AD_100341,Bebodywise,Nua Woman,2026-02-17,Feel confident every day.,1797,12194,6499,145462,Audience Network,India - East,35-44,Order Now,True
+AD_100342,Little Joys,Slurrp Farm,2025-12-09,Special festive discount live now.,14960,35647,6000,196714,Audience Network,India - South,35-44,Sign Up,True
+AD_100343,Little Joys,Supples,2026-01-29,Transform your hair naturally.,3900,32497,46140,217640,Instagram,India - North,45-54,Order Now,False
+AD_100344,Man Matters,Beardo,2025-12-04,Give your baby the best nutrition.,14335,33627,18889,31776,Messenger,India - South,25-34,Order Now,False
+AD_100345,Man Matters,Beardo,2025-10-05,Doctor recommended wellness formula.,7775,28919,18033,29599,Messenger,India - South,18-24,Shop Now,False
+AD_100346,Man Matters,The Man Company,2025-09-18,Feel confident every day.,18244,23863,22508,129955,Audience Network,India - North,25-34,Learn More,True
+AD_100347,Man Matters,Beardo,2025-12-30,Flat 40% off on your first purchase.,8443,27560,28927,150313,Instagram,India - West,45-54,Learn More,True
+AD_100348,Man Matters,Traya,2026-01-22,Limited time offer! Get healthier skin today.,11423,34817,33966,46017,Audience Network,India - North,25-34,Shop Now,True
+AD_100349,Man Matters,Beardo,2025-10-26,Feel confident every day.,12867,40723,35940,146133,Facebook,India - East,18-24,Shop Now,False
+AD_100350,Little Joys,Brainiac,2026-02-04,Clinically proven results in 30 days.,18932,46113,79576,125435,Facebook,India - South,18-24,Shop Now,False
+AD_100351,Bebodywise,Setu Nutrition,2026-02-19,Flat 40% off on your first purchase.,9599,14924,6352,125136,Instagram,India - East,25-34,Order Now,True
+AD_100352,Bebodywise,Plix,2025-09-12,Boost immunity with natural ingredients.,16914,23830,64179,240867,Messenger,India - North,35-44,Learn More,False
+AD_100353,Man Matters,The Man Company,2026-02-12,Special festive discount live now.,7323,30643,57151,216217,Audience Network,India - South,35-44,Learn More,True
+AD_100354,Bebodywise,Setu Nutrition,2025-09-01,Boost immunity with natural ingredients.,16317,31686,66584,110732,Messenger,India - West,18-24,Order Now,False
+AD_100355,Little Joys,Supples,2026-01-23,Transform your hair naturally.,9485,33642,13995,202745,Facebook,India - North,18-24,Learn More,False
+AD_100356,Man Matters,Beardo,2025-10-29,Doctor recommended wellness formula.,9005,36621,64817,137504,Facebook,India - East,35-44,Order Now,True
+AD_100357,Bebodywise,Nua Woman,2025-11-27,Dermatologist tested and approved.,1568,4415,19283,142666,Facebook,India - East,25-34,Shop Now,True
+AD_100358,Little Joys,Slurrp Farm,2025-12-26,Limited time offer! Get healthier skin today.,14103,21573,56141,127943,Facebook,India - East,45-54,Sign Up,False
+AD_100359,Bebodywise,Setu Nutrition,2025-10-18,Special festive discount live now.,8247,32771,6938,89337,Instagram,India - South,45-54,Order Now,False
+AD_100360,Man Matters,Traya,2026-01-07,Flat 40% off on your first purchase.,14186,29454,63056,203926,Facebook,India - West,45-54,Shop Now,False
+AD_100361,Little Joys,Supples,2026-01-07,Clinically proven results in 30 days.,8268,29100,48478,129885,Facebook,India - North,18-24,Shop Now,False
+AD_100362,Little Joys,Slurrp Farm,2026-01-20,Clinically proven results in 30 days.,7922,15514,58260,101614,Messenger,India - North,18-24,Shop Now,True
+AD_100363,Little Joys,Supples,2025-10-06,Clinically proven results in 30 days.,8847,26675,27976,115873,Messenger,India - North,35-44,Shop Now,True
+AD_100364,Little Joys,Supples,2025-11-14,Special festive discount live now.,3388,8704,29718,149226,Instagram,India - East,45-54,Sign Up,False
+AD_100365,Bebodywise,Setu Nutrition,2026-01-03,Boost immunity with natural ingredients.,4082,10934,37098,225738,Audience Network,India - West,35-44,Learn More,True
+AD_100366,Man Matters,Traya,2025-11-19,Boost immunity with natural ingredients.,9782,16759,87823,128113,Messenger,India - South,25-34,Sign Up,False
+AD_100367,Bebodywise,Setu Nutrition,2025-11-04,Transform your hair naturally.,4331,15053,18439,196748,Audience Network,India - South,25-34,Sign Up,False
+AD_100368,Little Joys,Supples,2026-02-12,Dermatologist tested and approved.,8684,11208,92716,267639,Instagram,India - West,35-44,Shop Now,False
+AD_100369,Man Matters,Traya,2025-12-12,Transform your hair naturally.,15564,24435,12676,30881,Messenger,India - West,18-24,Learn More,False
+AD_100370,Man Matters,The Man Company,2026-01-21,Clinically proven results in 30 days.,16443,35294,9609,90860,Instagram,India - East,25-34,Sign Up,True
+AD_100371,Man Matters,Traya,2025-11-07,Flat 40% off on your first purchase.,9874,36706,15683,215592,Instagram,India - North,45-54,Shop Now,True
+AD_100372,Man Matters,Beardo,2025-11-17,Limited time offer! Get healthier skin today.,3226,12625,77014,176424,Audience Network,India - East,25-34,Order Now,True
+AD_100373,Man Matters,The Man Company,2025-11-19,Dermatologist tested and approved.,15896,29279,55071,106046,Instagram,India - South,45-54,Order Now,False
+AD_100374,Little Joys,Slurrp Farm,2025-09-18,Feel confident every day.,16684,25730,31492,45750,Audience Network,India - West,25-34,Sign Up,False
+AD_100375,Little Joys,Supples,2025-09-11,Feel confident every day.,16256,20757,83527,135748,Audience Network,India - West,45-54,Learn More,True
+AD_100376,Man Matters,The Man Company,2025-10-01,Transform your hair naturally.,5396,25329,76285,129316,Audience Network,India - East,25-34,Order Now,False
+AD_100377,Bebodywise,Nua Woman,2026-02-03,Limited time offer! Get healthier skin today.,16100,35558,86931,141320,Facebook,India - North,45-54,Sign Up,False
+AD_100378,Man Matters,Traya,2025-11-01,Limited time offer! Get healthier skin today.,1097,25280,6156,151491,Messenger,India - South,45-54,Sign Up,False
+AD_100379,Man Matters,The Man Company,2025-10-27,Clinically proven results in 30 days.,14144,24309,67377,84869,Audience Network,India - East,25-34,Learn More,True
+AD_100380,Little Joys,Brainiac,2026-01-26,Doctor recommended wellness formula.,17101,21933,78996,226277,Instagram,India - West,45-54,Order Now,False
+AD_100381,Man Matters,Beardo,2025-12-13,Special festive discount live now.,3091,12216,41483,165801,Instagram,India - South,18-24,Sign Up,False
+AD_100382,Little Joys,Slurrp Farm,2025-10-22,Transform your hair naturally.,15280,40066,10638,210040,Instagram,India - East,35-44,Learn More,False
+AD_100383,Man Matters,The Man Company,2026-01-06,Doctor recommended wellness formula.,5031,17844,62321,194455,Facebook,India - North,45-54,Shop Now,True
+AD_100384,Man Matters,The Man Company,2025-10-22,Boost immunity with natural ingredients.,11792,41317,47354,172552,Facebook,India - West,35-44,Shop Now,True
+AD_100385,Bebodywise,Plix,2025-09-19,Boost immunity with natural ingredients.,12575,28723,77873,165451,Audience Network,India - South,25-34,Learn More,True
+AD_100386,Little Joys,Slurrp Farm,2025-12-03,Flat 40% off on your first purchase.,10407,24213,45502,151556,Messenger,India - South,45-54,Order Now,False
+AD_100387,Man Matters,The Man Company,2025-09-26,Dermatologist tested and approved.,14505,44044,47008,59562,Audience Network,India - East,18-24,Order Now,True
+AD_100388,Little Joys,Slurrp Farm,2026-01-28,Doctor recommended wellness formula.,4633,27115,98587,246637,Messenger,India - South,18-24,Shop Now,True
+AD_100389,Little Joys,Slurrp Farm,2025-12-25,Clinically proven results in 30 days.,5769,9755,77236,152973,Facebook,India - South,18-24,Learn More,True
+AD_100390,Man Matters,Beardo,2025-09-16,Special festive discount live now.,9746,11972,41136,134625,Messenger,India - South,25-34,Shop Now,True
+AD_100391,Bebodywise,Setu Nutrition,2025-10-16,Transform your hair naturally.,4929,20255,40016,70685,Audience Network,India - East,45-54,Shop Now,False
+AD_100392,Little Joys,Supples,2026-02-15,Flat 40% off on your first purchase.,7260,31244,80521,169328,Instagram,India - South,35-44,Order Now,False
+AD_100393,Little Joys,Supples,2026-01-22,Doctor recommended wellness formula.,11208,27576,38472,179993,Audience Network,India - West,35-44,Sign Up,False
+AD_100394,Bebodywise,Setu Nutrition,2026-01-27,Feel confident every day.,6190,15740,16780,37962,Messenger,India - North,18-24,Sign Up,True
+AD_100395,Man Matters,Traya,2026-01-28,Flat 40% off on your first purchase.,9043,16679,79859,268614,Audience Network,India - West,45-54,Sign Up,True
+AD_100396,Man Matters,Traya,2025-12-30,Special festive discount live now.,7620,16071,97288,291639,Audience Network,India - North,35-44,Shop Now,True
+AD_100397,Little Joys,Brainiac,2025-11-13,Transform your hair naturally.,3374,24315,15244,36164,Facebook,India - South,35-44,Order Now,True
+AD_100398,Little Joys,Brainiac,2025-09-17,Special festive discount live now.,6475,15145,20428,104567,Facebook,India - South,45-54,Sign Up,True
+AD_100399,Bebodywise,Setu Nutrition,2025-11-04,Feel confident every day.,5252,35197,78498,193262,Audience Network,India - East,25-34,Learn More,False
+AD_100400,Little Joys,Brainiac,2026-02-09,Flat 40% off on your first purchase.,11302,35122,85075,143111,Audience Network,India - North,25-34,Learn More,False
+AD_100401,Man Matters,Beardo,2026-01-19,Feel confident every day.,3542,28831,32640,201369,Audience Network,India - South,25-34,Learn More,True
+AD_100402,Bebodywise,Nua Woman,2025-08-28,Flat 40% off on your first purchase.,3614,28978,51653,244067,Instagram,India - East,45-54,Sign Up,True
+AD_100403,Bebodywise,Setu Nutrition,2025-11-27,Give your baby the best nutrition.,9742,38358,53905,246020,Audience Network,India - North,35-44,Sign Up,True
+AD_100404,Bebodywise,Nua Woman,2026-01-26,Transform your hair naturally.,5326,16580,10252,200620,Messenger,India - East,45-54,Learn More,True
+AD_100405,Man Matters,Traya,2025-09-24,Clinically proven results in 30 days.,12942,18819,12723,83291,Instagram,India - East,18-24,Learn More,False
+AD_100406,Bebodywise,Plix,2025-12-10,Boost immunity with natural ingredients.,11500,25513,10665,84674,Facebook,India - West,25-34,Sign Up,True
+AD_100407,Little Joys,Slurrp Farm,2025-11-13,Dermatologist tested and approved.,6051,29111,26613,95756,Messenger,India - North,45-54,Learn More,False
+AD_100408,Bebodywise,Nua Woman,2026-01-27,Clinically proven results in 30 days.,17870,36057,69894,144202,Instagram,India - South,45-54,Sign Up,False
+AD_100409,Man Matters,Traya,2025-09-28,Limited time offer! Get healthier skin today.,5437,23193,20006,72452,Audience Network,India - North,35-44,Sign Up,False
+AD_100410,Bebodywise,Nua Woman,2025-10-14,Clinically proven results in 30 days.,9139,13095,21971,186504,Audience Network,India - East,18-24,Learn More,True
+AD_100411,Man Matters,Traya,2025-10-20,Boost immunity with natural ingredients.,14091,27707,88247,215737,Facebook,India - West,18-24,Order Now,False
+AD_100412,Bebodywise,Plix,2026-02-11,Clinically proven results in 30 days.,2206,22462,97178,273963,Messenger,India - West,45-54,Shop Now,True
+AD_100413,Man Matters,Traya,2025-09-07,Give your baby the best nutrition.,5144,33407,47383,196567,Facebook,India - East,35-44,Learn More,False
+AD_100414,Bebodywise,Setu Nutrition,2025-12-12,Flat 40% off on your first purchase.,1927,8600,85692,174171,Messenger,India - West,25-34,Learn More,False
+AD_100415,Little Joys,Supples,2026-02-16,Limited time offer! Get healthier skin today.,10719,25775,77811,124422,Instagram,India - South,45-54,Sign Up,False
+AD_100416,Bebodywise,Plix,2025-12-04,Feel confident every day.,3058,17929,57725,217930,Messenger,India - East,25-34,Shop Now,False
+AD_100417,Bebodywise,Plix,2026-01-02,Flat 40% off on your first purchase.,9348,33913,65829,229064,Instagram,India - West,45-54,Learn More,False
+AD_100418,Man Matters,Beardo,2025-09-24,Clinically proven results in 30 days.,13419,22627,90673,105450,Instagram,India - South,25-34,Sign Up,False
+AD_100419,Little Joys,Brainiac,2025-09-17,Dermatologist tested and approved.,16078,37684,54699,252408,Audience Network,India - West,45-54,Shop Now,False
+AD_100420,Bebodywise,Setu Nutrition,2025-08-28,Clinically proven results in 30 days.,13849,28583,17331,107416,Messenger,India - West,35-44,Learn More,True
+AD_100421,Man Matters,The Man Company,2025-11-12,Boost immunity with natural ingredients.,5632,32252,64156,76699,Instagram,India - South,45-54,Learn More,True
+AD_100422,Bebodywise,Plix,2025-10-22,Flat 40% off on your first purchase.,3982,32155,88450,241289,Instagram,India - North,25-34,Order Now,True
+AD_100423,Little Joys,Brainiac,2026-01-06,Doctor recommended wellness formula.,1502,5320,14962,40292,Messenger,India - South,35-44,Shop Now,False
+AD_100424,Little Joys,Slurrp Farm,2026-02-13,Dermatologist tested and approved.,4113,30398,12131,159304,Messenger,India - South,45-54,Sign Up,False
+AD_100425,Bebodywise,Plix,2025-12-11,Clinically proven results in 30 days.,12532,35995,42443,217987,Audience Network,India - West,25-34,Learn More,True
+AD_100426,Little Joys,Brainiac,2026-02-11,Special festive discount live now.,12801,17977,89513,243130,Instagram,India - East,45-54,Learn More,False
+AD_100427,Bebodywise,Plix,2026-02-07,Feel confident every day.,5112,21868,75077,256517,Messenger,India - North,25-34,Sign Up,False
+AD_100428,Little Joys,Brainiac,2025-12-10,Transform your hair naturally.,7352,35808,55830,188484,Facebook,India - East,35-44,Order Now,True
+AD_100429,Little Joys,Brainiac,2026-01-14,Flat 40% off on your first purchase.,2413,17027,11219,135415,Messenger,India - North,25-34,Sign Up,True
+AD_100430,Man Matters,Traya,2025-09-14,Doctor recommended wellness formula.,18997,26897,76407,240617,Facebook,India - North,45-54,Shop Now,True
+AD_100431,Bebodywise,Nua Woman,2026-01-18,Limited time offer! Get healthier skin today.,10995,30899,68493,92792,Facebook,India - West,25-34,Shop Now,True
+AD_100432,Little Joys,Slurrp Farm,2025-10-02,Special festive discount live now.,4451,16927,73558,157813,Messenger,India - East,25-34,Sign Up,False
+AD_100433,Bebodywise,Plix,2025-12-24,Give your baby the best nutrition.,1403,18802,71874,221194,Facebook,India - West,35-44,Order Now,False
+AD_100434,Little Joys,Slurrp Farm,2025-11-01,Limited time offer! Get healthier skin today.,6670,21319,51528,205958,Facebook,India - East,35-44,Sign Up,False
+AD_100435,Bebodywise,Setu Nutrition,2025-12-05,Flat 40% off on your first purchase.,18630,32852,79675,179953,Instagram,India - South,35-44,Sign Up,False
+AD_100436,Man Matters,Traya,2026-01-17,Clinically proven results in 30 days.,8039,31620,89496,161630,Audience Network,India - East,18-24,Learn More,True
+AD_100437,Little Joys,Slurrp Farm,2026-02-18,Doctor recommended wellness formula.,16218,22620,23733,44060,Audience Network,India - North,35-44,Order Now,True
+AD_100438,Man Matters,Traya,2025-11-28,Clinically proven results in 30 days.,11309,41266,28064,201415,Facebook,India - North,25-34,Order Now,False
+AD_100439,Bebodywise,Setu Nutrition,2026-01-23,Special festive discount live now.,9332,27670,92024,145146,Instagram,India - South,35-44,Order Now,False
+AD_100440,Man Matters,Beardo,2026-01-03,Give your baby the best nutrition.,16440,27591,78013,237440,Instagram,India - East,25-34,Shop Now,True
+AD_100441,Little Joys,Slurrp Farm,2025-09-28,Limited time offer! Get healthier skin today.,7651,22916,86948,109586,Instagram,India - West,25-34,Order Now,False
+AD_100442,Bebodywise,Nua Woman,2025-12-25,Clinically proven results in 30 days.,14677,29803,43118,192626,Instagram,India - West,25-34,Sign Up,False
+AD_100443,Little Joys,Brainiac,2025-10-14,Boost immunity with natural ingredients.,15505,41369,19641,143794,Messenger,India - North,45-54,Shop Now,True
+AD_100444,Little Joys,Brainiac,2026-02-02,Transform your hair naturally.,17541,20898,56997,198282,Audience Network,India - East,18-24,Order Now,False
+AD_100445,Bebodywise,Plix,2025-09-13,Feel confident every day.,4861,12696,62745,103891,Audience Network,India - West,35-44,Learn More,False
+AD_100446,Man Matters,Beardo,2025-12-22,Special festive discount live now.,4601,22884,86727,102697,Messenger,India - West,25-34,Shop Now,False
+AD_100447,Bebodywise,Nua Woman,2026-02-12,Dermatologist tested and approved.,11349,25004,53169,232509,Facebook,India - West,18-24,Learn More,True
+AD_100448,Little Joys,Supples,2025-09-18,Boost immunity with natural ingredients.,13607,36330,40059,128806,Audience Network,India - East,45-54,Shop Now,True
+AD_100449,Little Joys,Slurrp Farm,2025-09-21,Limited time offer! Get healthier skin today.,4123,33030,36276,207663,Facebook,India - North,35-44,Sign Up,True
+AD_100450,Bebodywise,Nua Woman,2026-01-13,Doctor recommended wellness formula.,16236,43536,58916,104524,Messenger,India - East,35-44,Order Now,True
+AD_100451,Little Joys,Slurrp Farm,2026-01-26,Feel confident every day.,6458,16958,21990,176754,Instagram,India - East,18-24,Shop Now,True
+AD_100452,Man Matters,Beardo,2025-08-31,Limited time offer! Get healthier skin today.,10278,27589,91806,250119,Instagram,India - West,25-34,Sign Up,False
+AD_100453,Man Matters,Traya,2025-10-31,Transform your hair naturally.,14682,36416,37071,88617,Instagram,India - North,45-54,Shop Now,True
+AD_100454,Man Matters,The Man Company,2025-10-25,Limited time offer! Get healthier skin today.,6969,29748,48470,126076,Instagram,India - North,18-24,Order Now,False
+AD_100455,Man Matters,The Man Company,2025-12-11,Special festive discount live now.,19702,33975,92689,234429,Audience Network,India - East,18-24,Order Now,True
+AD_100456,Little Joys,Slurrp Farm,2025-12-29,Feel confident every day.,9389,29311,95800,131704,Instagram,India - South,35-44,Learn More,True
+AD_100457,Man Matters,The Man Company,2025-09-04,Flat 40% off on your first purchase.,1089,23098,97914,150257,Facebook,India - East,25-34,Sign Up,False
+AD_100458,Bebodywise,Plix,2025-09-29,Special festive discount live now.,4304,20078,45428,195017,Instagram,India - North,35-44,Sign Up,False
+AD_100459,Man Matters,Beardo,2025-12-25,Transform your hair naturally.,15696,43308,81680,275340,Messenger,India - South,25-34,Sign Up,False
+AD_100460,Little Joys,Supples,2025-11-19,Clinically proven results in 30 days.,8632,15493,44071,230927,Audience Network,India - South,35-44,Order Now,True
+AD_100461,Little Joys,Slurrp Farm,2026-01-22,Give your baby the best nutrition.,9689,23572,86706,136330,Facebook,India - West,18-24,Order Now,False
+AD_100462,Man Matters,The Man Company,2025-12-07,Dermatologist tested and approved.,14988,27916,34382,231309,Facebook,India - West,45-54,Learn More,False
+AD_100463,Bebodywise,Nua Woman,2025-10-18,Flat 40% off on your first purchase.,15729,26043,5770,165414,Instagram,India - West,18-24,Shop Now,True
+AD_100464,Bebodywise,Nua Woman,2025-12-26,Dermatologist tested and approved.,9327,27651,79393,150772,Messenger,India - South,25-34,Order Now,True
+AD_100465,Man Matters,Traya,2025-09-03,Give your baby the best nutrition.,19013,40677,78583,272919,Messenger,India - West,18-24,Order Now,False
+AD_100466,Little Joys,Slurrp Farm,2025-09-21,Limited time offer! Get healthier skin today.,12969,17649,5483,89152,Instagram,India - East,35-44,Shop Now,True
+AD_100467,Little Joys,Supples,2025-12-29,Special festive discount live now.,5638,14709,80968,224827,Messenger,India - East,25-34,Order Now,False
+AD_100468,Bebodywise,Nua Woman,2025-12-30,Transform your hair naturally.,17717,40741,38887,202537,Messenger,India - West,45-54,Sign Up,False
+AD_100469,Little Joys,Brainiac,2025-11-11,Doctor recommended wellness formula.,13027,41098,20288,155398,Instagram,India - North,35-44,Sign Up,False
+AD_100470,Bebodywise,Plix,2025-12-24,Doctor recommended wellness formula.,3432,12306,53018,242180,Audience Network,India - East,45-54,Sign Up,True
+AD_100471,Bebodywise,Plix,2025-08-25,Limited time offer! Get healthier skin today.,4562,8999,62012,231728,Audience Network,India - East,35-44,Shop Now,False
+AD_100472,Little Joys,Brainiac,2025-10-14,Transform your hair naturally.,15804,33272,86628,118528,Instagram,India - North,25-34,Learn More,True
+AD_100473,Bebodywise,Nua Woman,2025-09-03,Doctor recommended wellness formula.,11717,36252,68322,225819,Audience Network,India - East,35-44,Shop Now,False
+AD_100474,Man Matters,Beardo,2025-10-22,Doctor recommended wellness formula.,2051,20909,37466,156242,Messenger,India - South,45-54,Sign Up,False
+AD_100475,Little Joys,Supples,2025-08-31,Transform your hair naturally.,16098,21203,95114,183726,Audience Network,India - South,18-24,Order Now,True
+AD_100476,Man Matters,The Man Company,2025-10-26,Give your baby the best nutrition.,1960,16047,68343,212182,Messenger,India - West,35-44,Learn More,False
+AD_100477,Bebodywise,Nua Woman,2025-11-19,Clinically proven results in 30 days.,1530,13223,29999,131533,Messenger,India - North,35-44,Shop Now,True
+AD_100478,Man Matters,The Man Company,2025-12-07,Doctor recommended wellness formula.,16050,32984,50447,209017,Instagram,India - North,18-24,Sign Up,False
+AD_100479,Little Joys,Brainiac,2025-08-24,Doctor recommended wellness formula.,12268,41844,65917,253220,Instagram,India - East,18-24,Order Now,True
+AD_100480,Bebodywise,Plix,2025-10-06,Transform your hair naturally.,4038,27912,99821,248709,Facebook,India - South,18-24,Learn More,True
+AD_100481,Little Joys,Brainiac,2025-12-07,Limited time offer! Get healthier skin today.,19620,44881,7881,185605,Messenger,India - North,45-54,Shop Now,True
+AD_100482,Bebodywise,Plix,2025-12-31,Dermatologist tested and approved.,17555,45342,95243,184482,Instagram,India - North,18-24,Sign Up,False
+AD_100483,Bebodywise,Nua Woman,2026-01-13,Doctor recommended wellness formula.,2482,8344,24194,191939,Messenger,India - South,35-44,Learn More,False
+AD_100484,Bebodywise,Nua Woman,2025-11-22,Give your baby the best nutrition.,1997,23660,17728,212144,Audience Network,India - South,18-24,Shop Now,False
+AD_100485,Man Matters,Traya,2026-02-01,Give your baby the best nutrition.,6146,28511,71996,135753,Audience Network,India - West,45-54,Order Now,False
+AD_100486,Man Matters,Traya,2025-09-24,Doctor recommended wellness formula.,14678,36398,57476,254069,Messenger,India - South,25-34,Shop Now,True
+AD_100487,Bebodywise,Plix,2025-08-28,Give your baby the best nutrition.,10541,14835,99359,208083,Facebook,India - North,18-24,Learn More,False
+AD_100488,Bebodywise,Nua Woman,2026-01-29,Give your baby the best nutrition.,13270,19729,47905,153813,Messenger,India - South,45-54,Order Now,False
+AD_100489,Bebodywise,Setu Nutrition,2025-10-31,Special festive discount live now.,5146,16735,21285,121346,Facebook,India - North,25-34,Learn More,False
+AD_100490,Little Joys,Brainiac,2026-01-18,Clinically proven results in 30 days.,14059,37806,70619,189789,Facebook,India - North,35-44,Order Now,True
+AD_100491,Man Matters,Beardo,2025-09-16,Feel confident every day.,12928,16621,22972,60399,Audience Network,India - North,35-44,Sign Up,True
+AD_100492,Bebodywise,Plix,2026-02-11,Doctor recommended wellness formula.,15620,35436,83308,202640,Audience Network,India - North,35-44,Shop Now,True
+AD_100493,Bebodywise,Nua Woman,2025-09-16,Give your baby the best nutrition.,19367,29646,46858,202986,Audience Network,India - South,25-34,Sign Up,True
+AD_100494,Bebodywise,Setu Nutrition,2025-10-31,Limited time offer! Get healthier skin today.,7877,11934,75704,248389,Messenger,India - North,35-44,Learn More,False
+AD_100495,Bebodywise,Plix,2025-12-05,Flat 40% off on your first purchase.,17187,23428,26337,134540,Audience Network,India - West,35-44,Shop Now,False
+AD_100496,Little Joys,Supples,2026-01-29,Special festive discount live now.,19216,40644,55729,212413,Facebook,India - South,45-54,Sign Up,False
+AD_100497,Little Joys,Supples,2026-01-12,Feel confident every day.,5633,24275,47198,172180,Audience Network,India - South,25-34,Shop Now,False
+AD_100498,Man Matters,The Man Company,2026-01-28,Boost immunity with natural ingredients.,10833,13112,92957,203411,Facebook,India - West,45-54,Learn More,False
+AD_100499,Man Matters,Beardo,2025-12-26,Limited time offer! Get healthier skin today.,13364,20059,28970,207092,Audience Network,India - West,35-44,Shop Now,False
+AD_100500,Man Matters,Beardo,2025-12-30,Flat 40% off on your first purchase.,5386,23216,38512,211135,Instagram,India - West,35-44,Shop Now,True
+AD_100501,Bebodywise,Setu Nutrition,2026-01-28,Flat 40% off on your first purchase.,11735,34929,15987,57075,Audience Network,India - West,35-44,Order Now,True
+AD_100502,Bebodywise,Plix,2025-09-01,Limited time offer! Get healthier skin today.,8631,20287,32194,203389,Audience Network,India - East,18-24,Sign Up,True
+AD_100503,Man Matters,Traya,2025-12-15,Dermatologist tested and approved.,10280,12881,85464,137174,Audience Network,India - East,25-34,Sign Up,False
+AD_100504,Little Joys,Supples,2026-02-17,Give your baby the best nutrition.,7047,9599,24967,196994,Instagram,India - South,45-54,Sign Up,True
+AD_100505,Man Matters,Beardo,2025-09-25,Boost immunity with natural ingredients.,5152,24860,38593,117043,Messenger,India - East,45-54,Order Now,True
+AD_100506,Little Joys,Slurrp Farm,2025-10-16,Give your baby the best nutrition.,2981,12562,16777,141722,Instagram,India - South,25-34,Learn More,False
+AD_100507,Man Matters,Traya,2025-09-16,Transform your hair naturally.,1335,30895,32659,131129,Instagram,India - West,18-24,Learn More,False
+AD_100508,Little Joys,Brainiac,2026-02-15,Feel confident every day.,12633,42136,90725,107040,Instagram,India - North,18-24,Shop Now,False
+AD_100509,Bebodywise,Nua Woman,2025-11-18,Transform your hair naturally.,12182,36777,70880,125669,Instagram,India - South,25-34,Order Now,True
+AD_100510,Man Matters,Beardo,2025-09-10,Feel confident every day.,1827,16216,15344,27333,Instagram,India - North,18-24,Sign Up,True
+AD_100511,Little Joys,Supples,2026-01-27,Limited time offer! Get healthier skin today.,19996,25076,44179,213906,Audience Network,India - North,45-54,Order Now,False
+AD_100512,Bebodywise,Plix,2026-02-20,Special festive discount live now.,14151,41509,30386,107053,Facebook,India - North,45-54,Sign Up,False
+AD_100513,Little Joys,Supples,2026-01-22,Dermatologist tested and approved.,16590,36003,81089,187706,Audience Network,India - East,25-34,Sign Up,False
+AD_100514,Man Matters,Traya,2025-09-29,Limited time offer! Get healthier skin today.,13712,32561,32211,48471,Instagram,India - West,18-24,Order Now,False
+AD_100515,Little Joys,Supples,2025-09-04,Give your baby the best nutrition.,3774,21126,67235,226720,Audience Network,India - North,45-54,Sign Up,True
+AD_100516,Little Joys,Slurrp Farm,2026-01-20,Transform your hair naturally.,12605,22388,55448,123290,Facebook,India - East,35-44,Shop Now,False
+AD_100517,Bebodywise,Nua Woman,2026-01-15,Dermatologist tested and approved.,18784,31131,55216,152898,Instagram,India - South,35-44,Order Now,True
+AD_100518,Man Matters,Traya,2026-02-01,Doctor recommended wellness formula.,7063,12660,92033,104478,Facebook,India - South,25-34,Learn More,False
+AD_100519,Man Matters,The Man Company,2025-11-07,Limited time offer! Get healthier skin today.,14438,35942,8179,152250,Facebook,India - West,45-54,Sign Up,False
+AD_100520,Little Joys,Supples,2025-10-29,Limited time offer! Get healthier skin today.,3604,23860,96212,134111,Instagram,India - West,35-44,Sign Up,False
+AD_100521,Bebodywise,Plix,2025-09-23,Flat 40% off on your first purchase.,5890,24678,91868,218686,Messenger,India - East,25-34,Learn More,False
+AD_100522,Little Joys,Brainiac,2025-09-23,Boost immunity with natural ingredients.,18484,46949,29046,140480,Messenger,India - South,45-54,Order Now,True
+AD_100523,Bebodywise,Nua Woman,2025-10-24,Feel confident every day.,4348,18044,51820,164409,Facebook,India - East,18-24,Sign Up,True
+AD_100524,Man Matters,The Man Company,2025-09-07,Transform your hair naturally.,13670,22076,98104,223488,Instagram,India - East,35-44,Learn More,True
+AD_100525,Little Joys,Brainiac,2025-12-10,Limited time offer! Get healthier skin today.,6318,17576,29665,148424,Instagram,India - West,18-24,Order Now,False
+AD_100526,Bebodywise,Setu Nutrition,2025-11-09,Dermatologist tested and approved.,19181,30219,36431,137759,Facebook,India - West,18-24,Learn More,True
+AD_100527,Bebodywise,Plix,2025-09-11,Give your baby the best nutrition.,10583,29906,51850,246234,Instagram,India - West,18-24,Sign Up,False
+AD_100528,Bebodywise,Plix,2025-12-18,Feel confident every day.,1906,26314,39583,137052,Instagram,India - West,35-44,Sign Up,True
+AD_100529,Bebodywise,Nua Woman,2025-10-26,Feel confident every day.,5232,25420,5582,60989,Messenger,India - North,45-54,Shop Now,True
+AD_100530,Man Matters,The Man Company,2025-11-01,Clinically proven results in 30 days.,11278,39595,38856,80370,Audience Network,India - East,18-24,Learn More,False
+AD_100531,Bebodywise,Nua Woman,2025-10-12,Feel confident every day.,16144,40276,40777,233417,Messenger,India - North,35-44,Learn More,False
+AD_100532,Little Joys,Brainiac,2025-11-23,Feel confident every day.,18547,36777,64317,224158,Instagram,India - North,18-24,Shop Now,False
+AD_100533,Bebodywise,Setu Nutrition,2025-11-13,Doctor recommended wellness formula.,19040,48298,14635,188979,Instagram,India - West,25-34,Order Now,False
+AD_100534,Bebodywise,Plix,2025-12-13,Feel confident every day.,12093,32398,35932,46029,Audience Network,India - East,18-24,Order Now,True
+AD_100535,Man Matters,The Man Company,2025-09-03,Transform your hair naturally.,16425,19909,90451,202688,Facebook,India - South,45-54,Learn More,True
+AD_100536,Little Joys,Slurrp Farm,2026-02-18,Special festive discount live now.,5454,14322,5170,189786,Facebook,India - South,45-54,Sign Up,False
+AD_100537,Little Joys,Supples,2026-01-06,Dermatologist tested and approved.,11590,22117,23588,86340,Audience Network,India - South,35-44,Order Now,False
+AD_100538,Man Matters,Beardo,2026-01-28,Limited time offer! Get healthier skin today.,1412,21116,25018,122899,Messenger,India - East,18-24,Sign Up,True
+AD_100539,Bebodywise,Setu Nutrition,2026-01-09,Flat 40% off on your first purchase.,11833,29375,37773,142005,Instagram,India - West,25-34,Sign Up,False
+AD_100540,Little Joys,Brainiac,2025-10-24,Limited time offer! Get healthier skin today.,19820,30095,28240,132037,Audience Network,India - West,35-44,Learn More,True
+AD_100541,Little Joys,Supples,2025-12-22,Special festive discount live now.,13629,17805,82442,105048,Audience Network,India - East,18-24,Order Now,True
+AD_100542,Little Joys,Slurrp Farm,2026-01-19,Limited time offer! Get healthier skin today.,2095,30528,48015,229425,Facebook,India - South,18-24,Shop Now,True
+AD_100543,Little Joys,Supples,2025-10-25,Clinically proven results in 30 days.,6745,19056,87829,99361,Facebook,India - North,25-34,Shop Now,True
+AD_100544,Little Joys,Supples,2025-11-26,Dermatologist tested and approved.,12833,24077,24102,106053,Messenger,India - North,18-24,Order Now,True
+AD_100545,Man Matters,The Man Company,2025-08-28,Special festive discount live now.,6806,28241,22988,104898,Instagram,India - North,45-54,Order Now,True
+AD_100546,Bebodywise,Nua Woman,2026-02-19,Limited time offer! Get healthier skin today.,8277,34693,31232,96711,Instagram,India - North,45-54,Sign Up,False
+AD_100547,Little Joys,Supples,2025-09-07,Give your baby the best nutrition.,14040,43182,24030,212907,Facebook,India - North,25-34,Shop Now,False
+AD_100548,Bebodywise,Nua Woman,2025-08-24,Flat 40% off on your first purchase.,13647,30108,86985,286075,Facebook,India - West,18-24,Sign Up,True
+AD_100549,Man Matters,The Man Company,2025-11-04,Boost immunity with natural ingredients.,17133,39526,80516,192558,Facebook,India - West,45-54,Order Now,False
+AD_100550,Man Matters,Beardo,2025-11-04,Boost immunity with natural ingredients.,3407,11467,61772,218776,Instagram,India - North,35-44,Sign Up,True
+AD_100551,Bebodywise,Nua Woman,2026-02-10,Transform your hair naturally.,15333,22109,5949,95145,Instagram,India - East,25-34,Order Now,True
+AD_100552,Man Matters,The Man Company,2026-02-06,Doctor recommended wellness formula.,12222,41428,93751,165375,Messenger,India - South,35-44,Sign Up,False
+AD_100553,Little Joys,Slurrp Farm,2025-12-09,Feel confident every day.,5260,21452,14782,87361,Facebook,India - East,25-34,Learn More,True
+AD_100554,Man Matters,Traya,2025-11-06,Special festive discount live now.,11198,22266,54674,229724,Audience Network,India - South,18-24,Shop Now,False
+AD_100555,Bebodywise,Nua Woman,2025-11-24,Dermatologist tested and approved.,12338,37191,41241,199218,Instagram,India - North,25-34,Learn More,True
+AD_100556,Little Joys,Supples,2026-02-17,Flat 40% off on your first purchase.,4746,10380,86395,119124,Messenger,India - West,35-44,Learn More,True
+AD_100557,Bebodywise,Setu Nutrition,2025-12-21,Transform your hair naturally.,9498,28000,15168,94605,Messenger,India - East,45-54,Shop Now,True
+AD_100558,Bebodywise,Setu Nutrition,2025-08-29,Special festive discount live now.,4984,23256,69311,112203,Audience Network,India - West,25-34,Sign Up,True
+AD_100559,Man Matters,Traya,2025-11-16,Dermatologist tested and approved.,18863,45462,94597,271166,Facebook,India - North,18-24,Shop Now,True
+AD_100560,Man Matters,The Man Company,2025-10-12,Limited time offer! Get healthier skin today.,4576,13604,71237,152210,Messenger,India - East,45-54,Shop Now,True
+AD_100561,Bebodywise,Plix,2026-02-19,Feel confident every day.,12959,33740,67132,226415,Facebook,India - East,18-24,Order Now,False
+AD_100562,Bebodywise,Plix,2026-02-04,Special festive discount live now.,7366,31224,54110,81857,Facebook,India - West,25-34,Order Now,False
+AD_100563,Little Joys,Slurrp Farm,2025-10-10,Dermatologist tested and approved.,10371,34152,14485,165441,Facebook,India - East,25-34,Learn More,True
+AD_100564,Little Joys,Slurrp Farm,2026-02-20,Special festive discount live now.,15200,27297,86580,191485,Instagram,India - East,18-24,Order Now,True
+AD_100565,Bebodywise,Setu Nutrition,2025-09-27,Feel confident every day.,3217,24111,17497,61714,Facebook,India - West,35-44,Learn More,True
+AD_100566,Bebodywise,Setu Nutrition,2025-11-11,Dermatologist tested and approved.,17580,27715,30081,101109,Messenger,India - West,18-24,Learn More,True
+AD_100567,Little Joys,Slurrp Farm,2025-12-10,Feel confident every day.,7660,11685,16638,174360,Instagram,India - East,35-44,Order Now,False
+AD_100568,Little Joys,Slurrp Farm,2025-10-13,Limited time offer! Get healthier skin today.,5021,33829,82427,171860,Audience Network,India - North,18-24,Learn More,True
+AD_100569,Bebodywise,Setu Nutrition,2026-01-28,Limited time offer! Get healthier skin today.,14673,32518,78418,91666,Messenger,India - East,35-44,Sign Up,False
+AD_100570,Man Matters,The Man Company,2025-12-23,Flat 40% off on your first purchase.,8349,33169,68424,254788,Instagram,India - East,25-34,Sign Up,False
+AD_100571,Man Matters,The Man Company,2026-01-23,Transform your hair naturally.,13330,22731,9778,142576,Instagram,India - East,18-24,Shop Now,False
+AD_100572,Little Joys,Supples,2025-12-12,Feel confident every day.,13413,31849,98929,170064,Audience Network,India - East,45-54,Order Now,True
+AD_100573,Bebodywise,Nua Woman,2026-02-14,Doctor recommended wellness formula.,1285,9012,92181,231499,Messenger,India - South,35-44,Order Now,True
+AD_100574,Man Matters,Traya,2025-11-20,Limited time offer! Get healthier skin today.,3795,10230,52432,134662,Messenger,India - North,45-54,Learn More,True
+AD_100575,Man Matters,The Man Company,2025-08-31,Flat 40% off on your first purchase.,15884,34958,81324,107154,Messenger,India - South,18-24,Shop Now,True
+AD_100576,Man Matters,The Man Company,2026-01-05,Limited time offer! Get healthier skin today.,3937,8873,64911,167873,Instagram,India - South,25-34,Order Now,False
+AD_100577,Little Joys,Slurrp Farm,2025-09-26,Clinically proven results in 30 days.,11498,30206,79939,195756,Facebook,India - East,35-44,Learn More,True
+AD_100578,Little Joys,Supples,2025-10-30,Dermatologist tested and approved.,6339,18904,69543,250453,Instagram,India - West,35-44,Learn More,False
+AD_100579,Man Matters,The Man Company,2025-09-27,Limited time offer! Get healthier skin today.,10146,25218,82893,114380,Instagram,India - North,18-24,Shop Now,True
+AD_100580,Man Matters,Traya,2025-08-29,Limited time offer! Get healthier skin today.,10525,24335,15711,97997,Messenger,India - West,45-54,Shop Now,True
+AD_100581,Bebodywise,Nua Woman,2026-02-16,Doctor recommended wellness formula.,1121,30462,14047,85164,Facebook,India - North,18-24,Shop Now,False
+AD_100582,Little Joys,Brainiac,2026-01-08,Give your baby the best nutrition.,4561,8212,13405,162972,Messenger,India - East,35-44,Sign Up,True
+AD_100583,Bebodywise,Nua Woman,2025-12-02,Transform your hair naturally.,17136,26725,85167,245751,Audience Network,India - North,35-44,Learn More,False
+AD_100584,Man Matters,Traya,2025-11-26,Doctor recommended wellness formula.,8772,11595,26646,135934,Messenger,India - East,25-34,Sign Up,True
+AD_100585,Man Matters,Traya,2025-10-16,Boost immunity with natural ingredients.,1207,9361,16374,94716,Facebook,India - East,18-24,Order Now,True
+AD_100586,Bebodywise,Setu Nutrition,2025-10-22,Dermatologist tested and approved.,11187,26932,21928,124099,Messenger,India - West,35-44,Shop Now,True
+AD_100587,Little Joys,Brainiac,2026-02-13,Special festive discount live now.,2662,19227,36324,232644,Audience Network,India - West,25-34,Shop Now,False
+AD_100588,Bebodywise,Plix,2025-11-15,Transform your hair naturally.,14453,18714,55251,203499,Facebook,India - East,25-34,Shop Now,True
+AD_100589,Man Matters,Traya,2025-11-29,Limited time offer! Get healthier skin today.,10945,21673,47593,161544,Facebook,India - North,25-34,Order Now,True
+AD_100590,Bebodywise,Setu Nutrition,2025-09-04,Flat 40% off on your first purchase.,11965,18641,92406,281558,Facebook,India - East,45-54,Order Now,True
+AD_100591,Little Joys,Slurrp Farm,2025-09-12,Doctor recommended wellness formula.,19823,28244,24840,101343,Instagram,India - North,35-44,Sign Up,False
+AD_100592,Man Matters,The Man Company,2025-12-30,Doctor recommended wellness formula.,18377,43528,40497,66640,Facebook,India - West,18-24,Sign Up,False
+AD_100593,Little Joys,Brainiac,2026-01-23,Give your baby the best nutrition.,17299,19332,21034,171732,Messenger,India - North,35-44,Learn More,True
+AD_100594,Man Matters,Traya,2026-02-10,Feel confident every day.,11379,37475,62974,258544,Instagram,India - South,18-24,Sign Up,True
+AD_100595,Man Matters,The Man Company,2025-12-20,Boost immunity with natural ingredients.,19620,26776,49766,124283,Instagram,India - South,25-34,Learn More,False
+AD_100596,Little Joys,Slurrp Farm,2025-12-07,Feel confident every day.,1305,27251,51863,71569,Messenger,India - East,25-34,Shop Now,True
+AD_100597,Bebodywise,Setu Nutrition,2025-09-03,Give your baby the best nutrition.,19473,36866,67004,215892,Audience Network,India - North,45-54,Sign Up,False
+AD_100598,Bebodywise,Plix,2026-01-11,Boost immunity with natural ingredients.,9082,29211,53559,203604,Facebook,India - West,35-44,Sign Up,False
+AD_100599,Bebodywise,Nua Woman,2025-12-24,Clinically proven results in 30 days.,10346,26485,95966,220008,Instagram,India - West,35-44,Learn More,True
+AD_100600,Little Joys,Slurrp Farm,2026-01-30,Special festive discount live now.,15155,34504,65684,194210,Facebook,India - East,45-54,Learn More,True
+AD_100601,Little Joys,Supples,2025-09-06,Doctor recommended wellness formula.,5348,8598,69554,82688,Facebook,India - South,18-24,Sign Up,False
+AD_100602,Man Matters,Beardo,2025-09-22,Limited time offer! Get healthier skin today.,14517,30689,43555,106870,Instagram,India - East,35-44,Shop Now,False
+AD_100603,Man Matters,Traya,2025-12-30,Flat 40% off on your first purchase.,19713,26052,74844,117012,Facebook,India - West,18-24,Shop Now,True
+AD_100604,Man Matters,Traya,2026-01-01,Clinically proven results in 30 days.,5687,20170,84933,193249,Facebook,India - East,35-44,Order Now,False
+AD_100605,Bebodywise,Plix,2025-09-22,Give your baby the best nutrition.,18723,45438,70155,173091,Messenger,India - East,18-24,Sign Up,True
+AD_100606,Little Joys,Brainiac,2026-01-08,Transform your hair naturally.,11741,18904,47765,176525,Messenger,India - North,18-24,Sign Up,False
+AD_100607,Bebodywise,Setu Nutrition,2025-11-11,Feel confident every day.,19525,41145,35355,233224,Facebook,India - North,18-24,Learn More,True
+AD_100608,Bebodywise,Setu Nutrition,2026-01-20,Special festive discount live now.,14391,34825,37266,84242,Audience Network,India - West,18-24,Shop Now,False
+AD_100609,Man Matters,Beardo,2025-11-30,Boost immunity with natural ingredients.,10881,35932,75249,274022,Facebook,India - South,25-34,Learn More,False
+AD_100610,Man Matters,The Man Company,2026-01-06,Boost immunity with natural ingredients.,18415,37658,40036,239017,Facebook,India - East,35-44,Shop Now,False
+AD_100611,Bebodywise,Setu Nutrition,2025-10-18,Feel confident every day.,2588,7578,93346,190702,Facebook,India - North,45-54,Order Now,False
+AD_100612,Little Joys,Slurrp Farm,2025-11-08,Transform your hair naturally.,5712,31581,46278,118712,Messenger,India - South,18-24,Learn More,False
+AD_100613,Bebodywise,Setu Nutrition,2025-09-09,Boost immunity with natural ingredients.,7279,12016,9952,95781,Messenger,India - South,45-54,Learn More,False
+AD_100614,Man Matters,Traya,2025-11-10,Special festive discount live now.,6392,36166,8069,197749,Messenger,India - East,18-24,Learn More,False
+AD_100615,Bebodywise,Nua Woman,2026-02-01,Special festive discount live now.,16830,45749,36892,155813,Audience Network,India - East,45-54,Order Now,False
+AD_100616,Bebodywise,Setu Nutrition,2025-12-31,Clinically proven results in 30 days.,4913,23220,57416,168973,Instagram,India - West,18-24,Learn More,False
+AD_100617,Little Joys,Brainiac,2026-02-15,Special festive discount live now.,7823,25483,94252,206136,Messenger,India - West,25-34,Order Now,False
+AD_100618,Little Joys,Slurrp Farm,2025-12-25,Limited time offer! Get healthier skin today.,3701,32299,86504,107615,Audience Network,India - East,18-24,Learn More,True
+AD_100619,Man Matters,Beardo,2025-11-10,Dermatologist tested and approved.,19626,37108,53265,252076,Facebook,India - North,45-54,Learn More,False
+AD_100620,Man Matters,Beardo,2026-02-01,Boost immunity with natural ingredients.,9433,35226,47534,147878,Messenger,India - East,18-24,Sign Up,True
+AD_100621,Bebodywise,Plix,2025-08-31,Transform your hair naturally.,7423,35467,36611,141460,Instagram,India - North,18-24,Shop Now,True
+AD_100622,Little Joys,Slurrp Farm,2026-01-16,Flat 40% off on your first purchase.,16486,26868,88526,116342,Audience Network,India - South,45-54,Order Now,False
+AD_100623,Man Matters,Traya,2025-10-21,Doctor recommended wellness formula.,16334,41411,6177,123830,Facebook,India - North,25-34,Order Now,True
+AD_100624,Man Matters,Traya,2025-11-15,Flat 40% off on your first purchase.,8029,15586,85485,259495,Facebook,India - South,45-54,Order Now,False
+AD_100625,Man Matters,Beardo,2025-10-18,Feel confident every day.,12063,18276,12390,147724,Messenger,India - West,35-44,Order Now,False
+AD_100626,Bebodywise,Nua Woman,2026-02-19,Limited time offer! Get healthier skin today.,14092,31539,11552,80843,Messenger,India - South,45-54,Shop Now,True
+AD_100627,Bebodywise,Nua Woman,2025-12-14,Give your baby the best nutrition.,2998,28718,14915,155573,Messenger,India - South,18-24,Shop Now,True
+AD_100628,Man Matters,Beardo,2026-01-14,Transform your hair naturally.,15432,25680,65920,93704,Audience Network,India - South,45-54,Learn More,False
+AD_100629,Man Matters,Traya,2025-12-05,Limited time offer! Get healthier skin today.,14877,35000,88355,147171,Audience Network,India - West,35-44,Learn More,True
+AD_100630,Little Joys,Brainiac,2025-10-21,Give your baby the best nutrition.,9169,30907,58837,171980,Messenger,India - North,45-54,Shop Now,False
+AD_100631,Bebodywise,Plix,2025-09-06,Flat 40% off on your first purchase.,18680,30486,64850,256675,Audience Network,India - North,35-44,Learn More,False
+AD_100632,Bebodywise,Setu Nutrition,2025-12-31,Boost immunity with natural ingredients.,5959,16427,90093,118209,Audience Network,India - North,35-44,Order Now,True
+AD_100633,Bebodywise,Plix,2026-02-12,Clinically proven results in 30 days.,19017,35940,91198,160735,Facebook,India - East,18-24,Shop Now,True
+AD_100634,Bebodywise,Plix,2025-12-12,Special festive discount live now.,12782,21776,15151,125401,Audience Network,India - East,18-24,Shop Now,True
+AD_100635,Man Matters,Traya,2025-09-18,Special festive discount live now.,12825,24042,9262,126814,Facebook,India - East,18-24,Learn More,True
+AD_100636,Bebodywise,Setu Nutrition,2025-08-26,Special festive discount live now.,14085,41882,15046,32650,Facebook,India - South,25-34,Learn More,False
+AD_100637,Little Joys,Supples,2026-01-01,Transform your hair naturally.,3547,18469,73778,105889,Audience Network,India - South,25-34,Learn More,True
+AD_100638,Bebodywise,Nua Woman,2025-12-06,Dermatologist tested and approved.,17396,33094,77635,165967,Instagram,India - South,35-44,Learn More,False
+AD_100639,Little Joys,Slurrp Farm,2025-09-19,Flat 40% off on your first purchase.,19950,47539,63467,233918,Messenger,India - South,35-44,Shop Now,True
+AD_100640,Bebodywise,Setu Nutrition,2025-08-31,Doctor recommended wellness formula.,12930,37253,37565,111550,Audience Network,India - West,18-24,Shop Now,True
+AD_100641,Little Joys,Supples,2025-11-22,Flat 40% off on your first purchase.,1311,14436,91160,259304,Facebook,India - West,45-54,Shop Now,False
+AD_100642,Little Joys,Slurrp Farm,2026-02-07,Special festive discount live now.,6904,9117,48356,236226,Facebook,India - South,35-44,Sign Up,False
+AD_100643,Man Matters,Traya,2025-11-11,Transform your hair naturally.,16789,41109,31059,72438,Messenger,India - East,35-44,Learn More,True
+AD_100644,Little Joys,Brainiac,2025-08-29,Clinically proven results in 30 days.,8766,25439,10192,160415,Audience Network,India - North,18-24,Shop Now,False
+AD_100645,Man Matters,Traya,2026-01-24,Flat 40% off on your first purchase.,11142,32784,99945,203594,Messenger,India - North,35-44,Shop Now,True
+AD_100646,Bebodywise,Nua Woman,2025-11-01,Dermatologist tested and approved.,10335,12653,40036,195735,Facebook,India - South,35-44,Shop Now,True
+AD_100647,Man Matters,The Man Company,2025-09-21,Flat 40% off on your first purchase.,17577,24315,82079,96008,Audience Network,India - East,45-54,Shop Now,True
+AD_100648,Bebodywise,Nua Woman,2025-12-21,Special festive discount live now.,13152,22757,54452,119464,Instagram,India - South,25-34,Sign Up,False
+AD_100649,Little Joys,Brainiac,2025-10-02,Doctor recommended wellness formula.,7302,34505,11708,33891,Instagram,India - East,18-24,Shop Now,True
+AD_100650,Little Joys,Brainiac,2025-09-10,Special festive discount live now.,1658,17840,39269,111350,Instagram,India - West,45-54,Shop Now,True
+AD_100651,Little Joys,Supples,2025-12-07,Flat 40% off on your first purchase.,16526,32564,35812,196816,Audience Network,India - West,18-24,Sign Up,True
+AD_100652,Bebodywise,Plix,2026-02-15,Give your baby the best nutrition.,18925,25109,24043,87410,Audience Network,India - North,25-34,Order Now,True
+AD_100653,Man Matters,Beardo,2025-11-17,Clinically proven results in 30 days.,12536,23260,30894,195999,Audience Network,India - West,45-54,Shop Now,True
+AD_100654,Man Matters,The Man Company,2025-09-15,Doctor recommended wellness formula.,18748,32824,94858,255931,Instagram,India - East,18-24,Shop Now,False
+AD_100655,Man Matters,The Man Company,2025-11-08,Clinically proven results in 30 days.,4677,24811,14029,42155,Instagram,India - South,25-34,Sign Up,False
+AD_100656,Bebodywise,Nua Woman,2026-02-19,Feel confident every day.,16644,21207,44493,164370,Messenger,India - South,45-54,Order Now,False
+AD_100657,Man Matters,The Man Company,2025-12-27,Give your baby the best nutrition.,9962,26108,79831,270098,Audience Network,India - North,45-54,Shop Now,True
+AD_100658,Bebodywise,Nua Woman,2026-01-13,Flat 40% off on your first purchase.,3977,30302,22769,131166,Instagram,India - East,25-34,Order Now,True
+AD_100659,Little Joys,Supples,2025-09-02,Special festive discount live now.,10578,27829,17484,121763,Audience Network,India - West,35-44,Sign Up,False
+AD_100660,Bebodywise,Plix,2025-10-07,Flat 40% off on your first purchase.,2618,29903,63426,217604,Instagram,India - West,45-54,Learn More,False
+AD_100661,Man Matters,The Man Company,2026-02-15,Feel confident every day.,9762,32651,27979,101692,Messenger,India - North,45-54,Order Now,False
+AD_100662,Man Matters,Traya,2025-11-10,Doctor recommended wellness formula.,16083,30105,45917,147152,Facebook,India - South,45-54,Learn More,False
+AD_100663,Man Matters,Beardo,2026-01-13,Boost immunity with natural ingredients.,11011,23625,60335,151113,Audience Network,India - West,18-24,Sign Up,True
+AD_100664,Little Joys,Brainiac,2025-11-11,Feel confident every day.,17475,38525,28813,39604,Audience Network,India - West,45-54,Learn More,True
+AD_100665,Man Matters,The Man Company,2025-12-24,Flat 40% off on your first purchase.,16507,42902,69359,191278,Instagram,India - East,45-54,Shop Now,True
+AD_100666,Man Matters,Beardo,2026-02-14,Special festive discount live now.,5176,12572,52088,243986,Audience Network,India - South,35-44,Sign Up,True
+AD_100667,Little Joys,Supples,2026-01-02,Give your baby the best nutrition.,7517,11878,70197,125694,Facebook,India - North,25-34,Learn More,True
+AD_100668,Little Joys,Brainiac,2025-09-11,Special festive discount live now.,8678,34148,83700,180706,Audience Network,India - West,18-24,Learn More,False
+AD_100669,Little Joys,Brainiac,2025-09-05,Special festive discount live now.,16376,29389,18870,40882,Audience Network,India - East,35-44,Learn More,False
+AD_100670,Bebodywise,Setu Nutrition,2025-11-08,Clinically proven results in 30 days.,4796,29854,51448,147990,Messenger,India - East,35-44,Order Now,False
+AD_100671,Bebodywise,Setu Nutrition,2025-11-19,Give your baby the best nutrition.,4366,14535,96460,170446,Messenger,India - West,35-44,Shop Now,True
+AD_100672,Man Matters,Traya,2025-10-26,Feel confident every day.,8418,18420,20785,143978,Messenger,India - East,45-54,Order Now,False
+AD_100673,Man Matters,The Man Company,2026-02-15,Limited time offer! Get healthier skin today.,8095,18675,14816,141181,Facebook,India - South,18-24,Learn More,False
+AD_100674,Little Joys,Brainiac,2025-11-17,Boost immunity with natural ingredients.,2477,18577,87915,245447,Messenger,India - North,25-34,Shop Now,True
+AD_100675,Little Joys,Slurrp Farm,2025-10-20,Feel confident every day.,2773,24625,68889,233562,Messenger,India - West,25-34,Shop Now,True
+AD_100676,Man Matters,The Man Company,2025-11-02,Limited time offer! Get healthier skin today.,11957,23653,53550,138565,Facebook,India - South,35-44,Learn More,False
+AD_100677,Little Joys,Slurrp Farm,2025-09-14,Boost immunity with natural ingredients.,16084,36948,33047,119634,Instagram,India - West,18-24,Learn More,True
+AD_100678,Man Matters,Traya,2026-01-31,Clinically proven results in 30 days.,9962,24752,16113,56038,Audience Network,India - West,18-24,Order Now,False
+AD_100679,Bebodywise,Plix,2025-10-10,Give your baby the best nutrition.,14288,19744,74694,272851,Facebook,India - West,35-44,Sign Up,False
+AD_100680,Little Joys,Slurrp Farm,2025-11-21,Clinically proven results in 30 days.,4663,18860,9327,158529,Instagram,India - East,18-24,Learn More,True
+AD_100681,Man Matters,Traya,2025-09-11,Flat 40% off on your first purchase.,3143,18904,41780,196759,Instagram,India - West,18-24,Shop Now,False
+AD_100682,Little Joys,Slurrp Farm,2025-10-12,Give your baby the best nutrition.,4921,9552,40030,229736,Audience Network,India - South,18-24,Shop Now,False
+AD_100683,Bebodywise,Plix,2025-12-30,Doctor recommended wellness formula.,13210,18795,99613,121874,Facebook,India - North,18-24,Order Now,False
+AD_100684,Bebodywise,Setu Nutrition,2025-10-19,Transform your hair naturally.,6016,32180,85740,153066,Instagram,India - North,45-54,Sign Up,True
+AD_100685,Bebodywise,Nua Woman,2025-09-10,Clinically proven results in 30 days.,5950,35499,73532,189838,Messenger,India - South,35-44,Order Now,True
+AD_100686,Man Matters,Traya,2025-11-30,Feel confident every day.,14443,28276,83244,178922,Facebook,India - West,25-34,Learn More,False
+AD_100687,Little Joys,Supples,2025-10-27,Flat 40% off on your first purchase.,1420,13731,84472,256919,Instagram,India - West,45-54,Order Now,True
+AD_100688,Bebodywise,Nua Woman,2025-10-10,Doctor recommended wellness formula.,1846,31236,16983,66562,Audience Network,India - East,25-34,Learn More,True
+AD_100689,Man Matters,Traya,2025-12-15,Clinically proven results in 30 days.,4450,10919,5096,20134,Messenger,India - East,18-24,Learn More,False
+AD_100690,Little Joys,Brainiac,2026-02-18,Doctor recommended wellness formula.,10482,18727,64429,254598,Instagram,India - East,35-44,Shop Now,True
+AD_100691,Man Matters,The Man Company,2025-12-29,Special festive discount live now.,7145,35963,21129,126618,Instagram,India - North,45-54,Order Now,False
+AD_100692,Bebodywise,Nua Woman,2025-12-16,Boost immunity with natural ingredients.,3788,9608,82674,181316,Messenger,India - North,35-44,Order Now,True
+AD_100693,Man Matters,Traya,2025-12-13,Transform your hair naturally.,5173,25743,46138,225711,Instagram,India - South,35-44,Shop Now,False
+AD_100694,Bebodywise,Nua Woman,2025-10-17,Give your baby the best nutrition.,4552,6569,65343,128082,Audience Network,India - North,18-24,Shop Now,True
+AD_100695,Little Joys,Slurrp Farm,2025-09-20,Doctor recommended wellness formula.,5661,21591,8949,175652,Messenger,India - South,35-44,Order Now,False
+AD_100696,Man Matters,The Man Company,2025-10-20,Limited time offer! Get healthier skin today.,6065,14410,63414,172582,Messenger,India - North,35-44,Sign Up,False
+AD_100697,Bebodywise,Setu Nutrition,2025-10-26,Doctor recommended wellness formula.,18686,32136,92052,169225,Instagram,India - East,18-24,Sign Up,False
+AD_100698,Man Matters,Traya,2026-01-15,Boost immunity with natural ingredients.,1594,28237,16210,93508,Audience Network,India - East,45-54,Order Now,False
+AD_100699,Man Matters,Beardo,2025-10-03,Doctor recommended wellness formula.,2419,13447,97804,226291,Audience Network,India - South,18-24,Order Now,True
+AD_100700,Man Matters,The Man Company,2025-11-06,Flat 40% off on your first purchase.,15386,22346,69673,154574,Audience Network,India - East,18-24,Order Now,False
+AD_100701,Little Joys,Slurrp Farm,2026-02-10,Dermatologist tested and approved.,10714,15531,64940,206665,Facebook,India - North,25-34,Shop Now,False
+AD_100702,Bebodywise,Nua Woman,2026-02-13,Boost immunity with natural ingredients.,9443,34653,77307,273377,Messenger,India - West,18-24,Sign Up,False
+AD_100703,Bebodywise,Setu Nutrition,2026-01-28,Transform your hair naturally.,17337,22821,14548,76796,Messenger,India - East,35-44,Shop Now,False
+AD_100704,Little Joys,Slurrp Farm,2026-02-10,Dermatologist tested and approved.,19267,29298,31362,169573,Instagram,India - South,25-34,Shop Now,False
+AD_100705,Little Joys,Supples,2026-01-14,Clinically proven results in 30 days.,15552,35603,95906,266600,Messenger,India - West,35-44,Learn More,True
+AD_100706,Bebodywise,Setu Nutrition,2025-10-25,Limited time offer! Get healthier skin today.,2462,6523,26037,44746,Instagram,India - East,45-54,Learn More,False
+AD_100707,Man Matters,The Man Company,2025-12-09,Transform your hair naturally.,16236,27378,50722,115895,Audience Network,India - West,25-34,Shop Now,False
+AD_100708,Bebodywise,Plix,2025-10-08,Give your baby the best nutrition.,4229,17472,62253,257906,Facebook,India - North,45-54,Order Now,False
+AD_100709,Bebodywise,Plix,2025-12-09,Give your baby the best nutrition.,16793,40788,93592,131780,Messenger,India - West,35-44,Order Now,False
+AD_100710,Man Matters,Traya,2026-01-20,Transform your hair naturally.,18612,23446,88300,117454,Facebook,India - West,45-54,Learn More,False
+AD_100711,Man Matters,Traya,2025-09-27,Boost immunity with natural ingredients.,6184,10404,54139,200549,Messenger,India - North,45-54,Shop Now,True
+AD_100712,Little Joys,Slurrp Farm,2025-08-30,Special festive discount live now.,14256,25615,57517,165184,Messenger,India - West,45-54,Sign Up,False
+AD_100713,Little Joys,Brainiac,2025-12-11,Clinically proven results in 30 days.,9273,28864,72966,248804,Instagram,India - South,45-54,Sign Up,False
+AD_100714,Bebodywise,Plix,2026-01-31,Boost immunity with natural ingredients.,11891,31438,13237,156236,Facebook,India - South,45-54,Order Now,False
+AD_100715,Little Joys,Supples,2025-09-18,Boost immunity with natural ingredients.,16436,20212,81452,269313,Audience Network,India - South,18-24,Learn More,False
+AD_100716,Man Matters,The Man Company,2026-01-26,Transform your hair naturally.,1103,15814,39112,194760,Facebook,India - West,35-44,Order Now,False
+AD_100717,Little Joys,Brainiac,2025-09-19,Doctor recommended wellness formula.,2312,13593,17679,167593,Messenger,India - West,18-24,Sign Up,False
+AD_100718,Bebodywise,Plix,2026-02-20,Boost immunity with natural ingredients.,6897,36442,55189,211248,Messenger,India - West,35-44,Learn More,True
+AD_100719,Man Matters,Traya,2026-01-16,Clinically proven results in 30 days.,11222,38698,44163,110544,Audience Network,India - North,35-44,Order Now,False
+AD_100720,Man Matters,The Man Company,2025-08-27,Doctor recommended wellness formula.,5772,16594,9538,138778,Messenger,India - East,45-54,Sign Up,True
+AD_100721,Bebodywise,Setu Nutrition,2026-01-06,Special festive discount live now.,1501,23669,54300,88570,Facebook,India - West,18-24,Sign Up,True
+AD_100722,Bebodywise,Setu Nutrition,2025-09-22,Doctor recommended wellness formula.,8636,34465,14234,48807,Audience Network,India - East,18-24,Learn More,False
+AD_100723,Little Joys,Brainiac,2025-11-07,Doctor recommended wellness formula.,6449,9758,91468,265318,Messenger,India - East,35-44,Sign Up,True
+AD_100724,Man Matters,Traya,2026-01-04,Flat 40% off on your first purchase.,10559,23830,67369,200403,Messenger,India - West,25-34,Shop Now,True
+AD_100725,Man Matters,Beardo,2026-02-07,Boost immunity with natural ingredients.,7651,23298,83445,95857,Messenger,India - North,18-24,Learn More,True
+AD_100726,Little Joys,Slurrp Farm,2025-12-08,Special festive discount live now.,6445,18002,67433,198780,Facebook,India - South,18-24,Order Now,False
+AD_100727,Man Matters,Traya,2025-11-15,Special festive discount live now.,15721,21736,8297,41176,Audience Network,India - East,35-44,Order Now,True
+AD_100728,Bebodywise,Nua Woman,2025-12-07,Transform your hair naturally.,7233,9981,10263,196006,Messenger,India - East,45-54,Shop Now,False
+AD_100729,Little Joys,Supples,2025-12-18,Transform your hair naturally.,6220,25137,47266,81153,Instagram,India - East,25-34,Sign Up,True
+AD_100730,Little Joys,Brainiac,2025-08-30,Clinically proven results in 30 days.,10933,18313,53995,224699,Instagram,India - South,35-44,Order Now,False
+AD_100731,Bebodywise,Setu Nutrition,2026-01-27,Special festive discount live now.,1256,23474,45748,198460,Facebook,India - East,45-54,Learn More,False
+AD_100732,Bebodywise,Nua Woman,2025-10-25,Dermatologist tested and approved.,2974,22263,30053,111565,Facebook,India - West,18-24,Shop Now,True
+AD_100733,Man Matters,Traya,2026-02-17,Special festive discount live now.,7805,12249,40202,201364,Messenger,India - South,25-34,Order Now,False
+AD_100734,Man Matters,Beardo,2025-12-12,Dermatologist tested and approved.,10876,18378,11996,46039,Facebook,India - West,25-34,Learn More,True
+AD_100735,Little Joys,Brainiac,2025-11-08,Doctor recommended wellness formula.,14546,24579,55082,193779,Instagram,India - South,18-24,Sign Up,True
+AD_100736,Man Matters,Traya,2025-12-07,Dermatologist tested and approved.,2307,11148,54357,139292,Instagram,India - South,25-34,Shop Now,True
+AD_100737,Man Matters,Beardo,2026-01-08,Feel confident every day.,19994,40650,52831,136371,Instagram,India - East,35-44,Shop Now,True
+AD_100738,Little Joys,Brainiac,2025-09-18,Give your baby the best nutrition.,17334,20195,95973,208239,Messenger,India - North,25-34,Learn More,False
+AD_100739,Man Matters,Traya,2025-11-14,Doctor recommended wellness formula.,12505,26172,67161,258495,Instagram,India - North,45-54,Sign Up,False
+AD_100740,Bebodywise,Nua Woman,2025-09-29,Feel confident every day.,3849,21111,13542,167064,Audience Network,India - North,35-44,Order Now,False
+AD_100741,Man Matters,Traya,2025-08-29,Feel confident every day.,17071,38810,70757,185511,Audience Network,India - East,45-54,Order Now,False
+AD_100742,Little Joys,Brainiac,2025-10-13,Give your baby the best nutrition.,2687,28390,57198,225052,Instagram,India - South,35-44,Learn More,True
+AD_100743,Man Matters,Beardo,2025-10-28,Flat 40% off on your first purchase.,12825,36733,6732,61064,Audience Network,India - North,35-44,Order Now,False
+AD_100744,Little Joys,Brainiac,2026-01-26,Limited time offer! Get healthier skin today.,19642,45122,59319,122267,Facebook,India - West,18-24,Learn More,False
+AD_100745,Man Matters,The Man Company,2025-11-28,Doctor recommended wellness formula.,18411,48148,62442,219673,Audience Network,India - North,45-54,Learn More,False
+AD_100746,Bebodywise,Plix,2025-10-02,Flat 40% off on your first purchase.,18623,40260,50133,169122,Instagram,India - South,35-44,Order Now,True
+AD_100747,Bebodywise,Plix,2025-12-30,Flat 40% off on your first purchase.,13887,19761,43103,150588,Instagram,India - South,25-34,Shop Now,True
+AD_100748,Man Matters,Traya,2025-12-14,Transform your hair naturally.,8823,16370,97286,183213,Messenger,India - South,18-24,Sign Up,True
+AD_100749,Bebodywise,Nua Woman,2026-01-15,Special festive discount live now.,10861,19686,20395,131750,Facebook,India - South,35-44,Sign Up,False
+AD_100750,Little Joys,Brainiac,2025-09-28,Doctor recommended wellness formula.,3937,15748,53358,83825,Audience Network,India - North,18-24,Shop Now,False
+AD_100751,Man Matters,Traya,2026-01-15,Transform your hair naturally.,17993,46408,37462,205055,Instagram,India - East,18-24,Shop Now,False
+AD_100752,Man Matters,Beardo,2025-09-01,Give your baby the best nutrition.,8870,32751,67612,99995,Audience Network,India - South,35-44,Learn More,True
+AD_100753,Man Matters,Traya,2025-10-01,Clinically proven results in 30 days.,2054,22731,78183,267742,Audience Network,India - South,45-54,Learn More,False
+AD_100754,Bebodywise,Nua Woman,2026-01-15,Clinically proven results in 30 days.,3642,15496,75835,137503,Messenger,India - North,18-24,Sign Up,False
+AD_100755,Man Matters,The Man Company,2026-02-07,Give your baby the best nutrition.,2198,21613,55296,163932,Facebook,India - East,25-34,Sign Up,True
+AD_100756,Bebodywise,Nua Woman,2025-10-03,Clinically proven results in 30 days.,9932,29670,21470,64835,Instagram,India - North,18-24,Order Now,True
+AD_100757,Man Matters,The Man Company,2025-11-19,Boost immunity with natural ingredients.,4437,31771,51045,174007,Instagram,India - South,45-54,Sign Up,True
+AD_100758,Bebodywise,Setu Nutrition,2025-12-27,Dermatologist tested and approved.,6759,12193,38885,52286,Facebook,India - North,35-44,Learn More,False
+AD_100759,Man Matters,Traya,2025-11-28,Clinically proven results in 30 days.,5132,27018,40244,161900,Messenger,India - West,18-24,Sign Up,False
+AD_100760,Little Joys,Brainiac,2025-11-08,Give your baby the best nutrition.,1949,13248,53913,193015,Messenger,India - East,35-44,Order Now,True
+AD_100761,Little Joys,Supples,2026-02-09,Clinically proven results in 30 days.,7364,24919,79987,139611,Audience Network,India - East,18-24,Sign Up,False
+AD_100762,Man Matters,The Man Company,2025-09-01,Doctor recommended wellness formula.,16684,46083,17113,71238,Audience Network,India - North,18-24,Learn More,True
+AD_100763,Bebodywise,Nua Woman,2026-01-30,Give your baby the best nutrition.,19187,35844,5136,132088,Facebook,India - East,35-44,Learn More,False
+AD_100764,Little Joys,Slurrp Farm,2026-01-21,Special festive discount live now.,13337,39309,63373,146231,Audience Network,India - East,18-24,Order Now,True
+AD_100765,Bebodywise,Nua Woman,2025-09-20,Flat 40% off on your first purchase.,4625,14332,50833,197223,Facebook,India - East,18-24,Learn More,False
+AD_100766,Man Matters,The Man Company,2026-01-16,Transform your hair naturally.,5180,26617,93379,262135,Facebook,India - North,35-44,Learn More,False
+AD_100767,Bebodywise,Nua Woman,2025-12-05,Give your baby the best nutrition.,18164,27271,34703,142933,Audience Network,India - East,25-34,Learn More,True
+AD_100768,Bebodywise,Nua Woman,2025-09-28,Limited time offer! Get healthier skin today.,13503,43168,15563,101126,Audience Network,India - West,35-44,Sign Up,False
+AD_100769,Bebodywise,Plix,2025-09-18,Feel confident every day.,4431,10143,33914,162634,Messenger,India - North,18-24,Shop Now,False
+AD_100770,Man Matters,Traya,2026-01-16,Boost immunity with natural ingredients.,4147,34083,11513,53287,Instagram,India - North,18-24,Sign Up,False
+AD_100771,Bebodywise,Plix,2026-01-17,Doctor recommended wellness formula.,13180,26549,58191,173528,Facebook,India - North,18-24,Sign Up,False
+AD_100772,Little Joys,Slurrp Farm,2026-02-01,Special festive discount live now.,4720,16047,97164,152599,Facebook,India - East,35-44,Learn More,True
+AD_100773,Man Matters,Traya,2025-10-22,Doctor recommended wellness formula.,11969,31157,83928,155129,Instagram,India - West,45-54,Order Now,True
+AD_100774,Man Matters,The Man Company,2025-10-07,Transform your hair naturally.,10150,16238,32098,139604,Facebook,India - North,25-34,Learn More,False
+AD_100775,Little Joys,Slurrp Farm,2025-11-08,Boost immunity with natural ingredients.,4672,33286,12750,163211,Instagram,India - North,45-54,Shop Now,True
+AD_100776,Little Joys,Slurrp Farm,2025-09-10,Clinically proven results in 30 days.,12973,39345,32415,120178,Instagram,India - North,45-54,Sign Up,True
+AD_100777,Man Matters,The Man Company,2026-01-07,Flat 40% off on your first purchase.,16838,23495,66727,211973,Instagram,India - West,45-54,Learn More,False
+AD_100778,Man Matters,The Man Company,2026-02-19,Give your baby the best nutrition.,7779,24402,64805,235744,Facebook,India - South,25-34,Learn More,True
+AD_100779,Little Joys,Slurrp Farm,2025-11-08,Doctor recommended wellness formula.,16243,18488,72015,167717,Facebook,India - South,35-44,Shop Now,True
+AD_100780,Man Matters,Beardo,2025-10-08,Doctor recommended wellness formula.,10957,27107,7587,69845,Facebook,India - East,25-34,Shop Now,True
+AD_100781,Little Joys,Supples,2026-01-26,Boost immunity with natural ingredients.,14536,17884,86873,144186,Audience Network,India - South,18-24,Learn More,False
+AD_100782,Man Matters,Beardo,2025-11-21,Transform your hair naturally.,13892,43516,33258,137641,Facebook,India - North,25-34,Shop Now,True
+AD_100783,Man Matters,The Man Company,2025-10-23,Special festive discount live now.,12065,35404,92265,289479,Messenger,India - West,35-44,Learn More,True
+AD_100784,Bebodywise,Plix,2025-11-16,Clinically proven results in 30 days.,17223,32003,75484,208451,Facebook,India - West,25-34,Shop Now,True
+AD_100785,Little Joys,Slurrp Farm,2025-11-30,Dermatologist tested and approved.,16363,24917,28046,194999,Messenger,India - North,25-34,Learn More,False
+AD_100786,Man Matters,Traya,2025-11-20,Clinically proven results in 30 days.,8983,25888,19419,208930,Instagram,India - North,18-24,Learn More,False
+AD_100787,Man Matters,Traya,2026-02-12,Clinically proven results in 30 days.,1852,22277,67933,101363,Facebook,India - West,35-44,Sign Up,True
+AD_100788,Little Joys,Brainiac,2025-12-04,Transform your hair naturally.,9141,32581,19577,39092,Facebook,India - North,35-44,Sign Up,True
+AD_100789,Bebodywise,Plix,2025-09-02,Boost immunity with natural ingredients.,15994,22873,70274,91339,Instagram,India - North,25-34,Order Now,True
+AD_100790,Little Joys,Brainiac,2025-10-06,Give your baby the best nutrition.,13818,27079,13064,206439,Instagram,India - South,18-24,Shop Now,False
+AD_100791,Man Matters,Beardo,2025-11-04,Special festive discount live now.,7594,12849,43845,228661,Instagram,India - East,25-34,Learn More,True
+AD_100792,Bebodywise,Setu Nutrition,2025-10-23,Clinically proven results in 30 days.,10920,31824,72076,103763,Audience Network,India - West,25-34,Order Now,False
+AD_100793,Man Matters,The Man Company,2025-08-27,Transform your hair naturally.,17041,41277,52074,232680,Instagram,India - South,25-34,Order Now,False
+AD_100794,Bebodywise,Plix,2025-11-19,Give your baby the best nutrition.,19346,27009,66480,176345,Facebook,India - West,18-24,Learn More,True
+AD_100795,Bebodywise,Plix,2026-02-15,Feel confident every day.,17783,21341,59362,103350,Facebook,India - East,45-54,Shop Now,False
+AD_100796,Man Matters,Beardo,2025-12-13,Boost immunity with natural ingredients.,17711,37862,43534,79159,Audience Network,India - North,18-24,Shop Now,False
+AD_100797,Little Joys,Slurrp Farm,2025-10-16,Transform your hair naturally.,15930,41571,89401,268263,Audience Network,India - East,35-44,Order Now,True
+AD_100798,Man Matters,The Man Company,2025-12-15,Limited time offer! Get healthier skin today.,19810,44985,85237,268934,Audience Network,India - North,25-34,Order Now,True
+AD_100799,Little Joys,Supples,2026-01-22,Limited time offer! Get healthier skin today.,14113,24095,64740,137864,Messenger,India - East,45-54,Sign Up,True
+AD_100800,Bebodywise,Nua Woman,2026-02-20,Flat 40% off on your first purchase.,19905,31690,35355,112355,Facebook,India - West,25-34,Order Now,False
+AD_100801,Man Matters,Beardo,2025-09-04,Transform your hair naturally.,11310,36928,37120,88162,Instagram,India - East,25-34,Shop Now,True
+AD_100802,Man Matters,The Man Company,2025-12-07,Feel confident every day.,14757,35916,53215,157507,Messenger,India - East,18-24,Learn More,True
+AD_100803,Bebodywise,Nua Woman,2025-08-31,Feel confident every day.,12053,17725,54840,166995,Instagram,India - East,18-24,Learn More,True
+AD_100804,Man Matters,Traya,2026-01-22,Transform your hair naturally.,4436,21457,18202,161035,Instagram,India - North,25-34,Order Now,True
+AD_100805,Bebodywise,Nua Woman,2025-09-10,Special festive discount live now.,13302,31315,60843,173928,Facebook,India - North,35-44,Order Now,True
+AD_100806,Little Joys,Supples,2025-10-23,Flat 40% off on your first purchase.,15760,42594,85091,112818,Audience Network,India - South,35-44,Learn More,True
+AD_100807,Man Matters,Beardo,2026-01-13,Doctor recommended wellness formula.,6147,15062,94985,114781,Facebook,India - North,18-24,Order Now,True
+AD_100808,Man Matters,Beardo,2025-11-05,Doctor recommended wellness formula.,12949,33452,69147,146178,Facebook,India - West,25-34,Shop Now,True
+AD_100809,Man Matters,Traya,2025-12-19,Boost immunity with natural ingredients.,7322,25534,16415,128820,Facebook,India - East,25-34,Learn More,False
+AD_100810,Little Joys,Brainiac,2025-10-31,Give your baby the best nutrition.,3445,24720,84843,189940,Audience Network,India - East,25-34,Learn More,True
+AD_100811,Man Matters,Traya,2025-11-30,Doctor recommended wellness formula.,13823,30961,23114,42280,Facebook,India - North,25-34,Shop Now,True
+AD_100812,Bebodywise,Nua Woman,2025-08-28,Dermatologist tested and approved.,6937,30775,60540,235930,Messenger,India - South,45-54,Sign Up,False
+AD_100813,Bebodywise,Plix,2026-01-21,Limited time offer! Get healthier skin today.,5151,24258,84707,208950,Audience Network,India - North,45-54,Order Now,False
+AD_100814,Man Matters,Beardo,2025-10-04,Limited time offer! Get healthier skin today.,10605,24252,51287,199275,Audience Network,India - North,45-54,Learn More,True
+AD_100815,Little Joys,Slurrp Farm,2026-01-20,Boost immunity with natural ingredients.,8956,15648,88303,106126,Facebook,India - South,25-34,Order Now,True
+AD_100816,Man Matters,Beardo,2025-12-14,Dermatologist tested and approved.,13030,41242,19454,114491,Facebook,India - West,45-54,Shop Now,False
+AD_100817,Man Matters,Traya,2026-01-08,Limited time offer! Get healthier skin today.,19887,46224,79507,192471,Messenger,India - North,45-54,Learn More,True
+AD_100818,Little Joys,Brainiac,2025-09-22,Give your baby the best nutrition.,19993,30542,17051,188714,Instagram,India - South,35-44,Learn More,False
+AD_100819,Man Matters,Traya,2025-11-23,Give your baby the best nutrition.,3076,29257,93461,195979,Instagram,India - North,25-34,Shop Now,False
+AD_100820,Man Matters,Beardo,2026-02-15,Boost immunity with natural ingredients.,3757,23403,53615,231693,Messenger,India - South,18-24,Sign Up,False
+AD_100821,Man Matters,The Man Company,2026-02-07,Give your baby the best nutrition.,6909,36737,91623,149962,Audience Network,India - North,35-44,Order Now,True
+AD_100822,Little Joys,Brainiac,2026-02-11,Feel confident every day.,5895,28966,57327,218176,Audience Network,India - East,25-34,Shop Now,True
+AD_100823,Little Joys,Slurrp Farm,2025-12-30,Flat 40% off on your first purchase.,17684,33872,51741,206321,Facebook,India - West,35-44,Sign Up,True
+AD_100824,Bebodywise,Setu Nutrition,2025-10-14,Boost immunity with natural ingredients.,8908,15734,48338,180886,Instagram,India - East,45-54,Learn More,False
+AD_100825,Bebodywise,Nua Woman,2025-11-27,Dermatologist tested and approved.,18823,25254,17422,100207,Instagram,India - North,18-24,Shop Now,False
+AD_100826,Man Matters,Traya,2025-10-31,Special festive discount live now.,4015,30695,81753,279113,Facebook,India - East,25-34,Sign Up,False
+AD_100827,Little Joys,Supples,2025-09-10,Clinically proven results in 30 days.,16617,39827,78594,240537,Messenger,India - East,45-54,Shop Now,False
+AD_100828,Little Joys,Slurrp Farm,2025-12-10,Give your baby the best nutrition.,14317,43868,57630,88095,Audience Network,India - South,35-44,Shop Now,False
+AD_100829,Bebodywise,Plix,2026-01-24,Limited time offer! Get healthier skin today.,10248,19875,15384,168472,Facebook,India - East,18-24,Order Now,True
+AD_100830,Bebodywise,Setu Nutrition,2025-12-08,Give your baby the best nutrition.,8422,27031,88781,158939,Messenger,India - West,35-44,Shop Now,True
+AD_100831,Little Joys,Brainiac,2026-01-06,Special festive discount live now.,6086,29799,27130,161711,Facebook,India - West,25-34,Shop Now,True
+AD_100832,Man Matters,Traya,2025-08-28,Flat 40% off on your first purchase.,5477,17448,91696,215287,Instagram,India - South,25-34,Sign Up,True
+AD_100833,Bebodywise,Setu Nutrition,2025-10-05,Boost immunity with natural ingredients.,14206,34833,28388,188331,Instagram,India - South,25-34,Sign Up,True
+AD_100834,Little Joys,Brainiac,2026-01-08,Feel confident every day.,9666,20204,76177,162723,Audience Network,India - West,35-44,Shop Now,False
+AD_100835,Man Matters,The Man Company,2026-02-02,Feel confident every day.,13241,26605,48697,62718,Audience Network,India - East,35-44,Sign Up,False
+AD_100836,Little Joys,Supples,2026-01-06,Feel confident every day.,17632,26266,68322,140178,Messenger,India - North,18-24,Order Now,True
+AD_100837,Bebodywise,Nua Woman,2025-11-27,Limited time offer! Get healthier skin today.,8025,13405,54727,164006,Audience Network,India - North,25-34,Learn More,True
+AD_100838,Man Matters,The Man Company,2026-02-13,Limited time offer! Get healthier skin today.,10925,16245,33578,61394,Audience Network,India - South,18-24,Learn More,False
+AD_100839,Little Joys,Slurrp Farm,2025-11-14,Feel confident every day.,1115,16470,88101,105443,Instagram,India - South,18-24,Shop Now,False
+AD_100840,Bebodywise,Plix,2025-12-25,Feel confident every day.,1482,20656,61019,261006,Instagram,India - West,25-34,Sign Up,True
+AD_100841,Bebodywise,Setu Nutrition,2026-02-09,Clinically proven results in 30 days.,3931,26879,39083,226571,Messenger,India - South,35-44,Sign Up,True
+AD_100842,Man Matters,Beardo,2026-01-06,Doctor recommended wellness formula.,19198,46195,60671,94940,Instagram,India - North,45-54,Learn More,False
+AD_100843,Man Matters,Beardo,2025-11-14,Clinically proven results in 30 days.,12947,36105,26737,132425,Audience Network,India - North,45-54,Learn More,True
+AD_100844,Man Matters,Traya,2025-10-05,Feel confident every day.,17918,20399,36470,177604,Audience Network,India - North,25-34,Order Now,False
+AD_100845,Little Joys,Supples,2025-11-25,Clinically proven results in 30 days.,19912,47440,96653,227574,Instagram,India - South,45-54,Order Now,False
+AD_100846,Little Joys,Supples,2025-09-08,Feel confident every day.,3898,11310,31932,148824,Instagram,India - North,35-44,Learn More,False
+AD_100847,Bebodywise,Setu Nutrition,2025-08-31,Boost immunity with natural ingredients.,10599,40095,5315,203509,Instagram,India - South,18-24,Shop Now,False
+AD_100848,Little Joys,Brainiac,2025-09-02,Give your baby the best nutrition.,19911,34893,77216,190012,Instagram,India - South,25-34,Shop Now,True
+AD_100849,Little Joys,Brainiac,2025-11-02,Clinically proven results in 30 days.,10377,39422,13752,112366,Messenger,India - North,25-34,Sign Up,False
+AD_100850,Bebodywise,Setu Nutrition,2026-01-22,Clinically proven results in 30 days.,10786,31348,75749,175543,Instagram,India - East,25-34,Sign Up,True
+AD_100851,Bebodywise,Nua Woman,2025-09-30,Give your baby the best nutrition.,13722,17388,6951,67088,Facebook,India - South,45-54,Sign Up,False
+AD_100852,Little Joys,Brainiac,2025-10-17,Limited time offer! Get healthier skin today.,1454,29488,99430,197347,Audience Network,India - South,35-44,Learn More,True
+AD_100853,Bebodywise,Setu Nutrition,2025-12-03,Limited time offer! Get healthier skin today.,12200,28793,64162,159573,Audience Network,India - South,25-34,Order Now,False
+AD_100854,Man Matters,Beardo,2025-09-28,Clinically proven results in 30 days.,16201,45198,80019,124029,Audience Network,India - South,35-44,Shop Now,True
+AD_100855,Little Joys,Slurrp Farm,2025-12-08,Doctor recommended wellness formula.,15548,34752,93098,134920,Audience Network,India - West,25-34,Shop Now,False
+AD_100856,Bebodywise,Plix,2025-11-12,Feel confident every day.,11723,28601,98558,175537,Instagram,India - West,25-34,Order Now,False
+AD_100857,Man Matters,Traya,2025-09-29,Doctor recommended wellness formula.,2020,30470,8642,41004,Messenger,India - West,25-34,Learn More,True
+AD_100858,Man Matters,Beardo,2026-01-09,Feel confident every day.,3629,12429,83193,173225,Facebook,India - North,35-44,Learn More,False
+AD_100859,Little Joys,Brainiac,2025-10-05,Boost immunity with natural ingredients.,19466,34325,28399,155629,Facebook,India - East,45-54,Learn More,True
+AD_100860,Little Joys,Supples,2026-02-05,Doctor recommended wellness formula.,12257,35225,21516,101305,Instagram,India - North,25-34,Shop Now,True
+AD_100861,Little Joys,Slurrp Farm,2026-02-11,Give your baby the best nutrition.,19932,42573,32130,135932,Messenger,India - South,35-44,Shop Now,True
+AD_100862,Little Joys,Brainiac,2025-08-27,Special festive discount live now.,7054,30134,17392,85939,Messenger,India - South,25-34,Learn More,False
+AD_100863,Bebodywise,Nua Woman,2025-10-14,Doctor recommended wellness formula.,19310,32719,13019,129913,Messenger,India - East,25-34,Learn More,False
+AD_100864,Bebodywise,Nua Woman,2025-10-19,Special festive discount live now.,14064,40538,12107,144464,Audience Network,India - West,25-34,Sign Up,False
+AD_100865,Little Joys,Slurrp Farm,2026-02-09,Doctor recommended wellness formula.,11652,15252,78076,134242,Facebook,India - North,35-44,Learn More,True
+AD_100866,Little Joys,Brainiac,2026-01-23,Boost immunity with natural ingredients.,8799,31763,8167,180583,Messenger,India - West,35-44,Learn More,False
+AD_100867,Bebodywise,Nua Woman,2025-08-31,Limited time offer! Get healthier skin today.,1331,17971,41124,81536,Instagram,India - East,45-54,Shop Now,True
+AD_100868,Little Joys,Slurrp Farm,2025-08-31,Transform your hair naturally.,15114,41260,47092,81215,Audience Network,India - East,45-54,Sign Up,False
+AD_100869,Bebodywise,Nua Woman,2025-11-04,Special festive discount live now.,15052,27826,30923,211582,Audience Network,India - South,25-34,Shop Now,True
+AD_100870,Bebodywise,Setu Nutrition,2025-11-18,Give your baby the best nutrition.,12559,26572,76491,229366,Facebook,India - East,35-44,Learn More,True
+AD_100871,Bebodywise,Nua Woman,2025-09-17,Dermatologist tested and approved.,14793,32633,8287,23525,Messenger,India - East,35-44,Learn More,False
+AD_100872,Little Joys,Supples,2025-09-05,Special festive discount live now.,2955,16514,91810,110692,Facebook,India - North,25-34,Shop Now,True
+AD_100873,Man Matters,Beardo,2025-12-26,Limited time offer! Get healthier skin today.,8829,33558,70860,144587,Audience Network,India - East,45-54,Order Now,False
+AD_100874,Little Joys,Slurrp Farm,2025-08-29,Special festive discount live now.,15651,34414,70890,219653,Audience Network,India - South,25-34,Learn More,False
+AD_100875,Little Joys,Brainiac,2025-08-24,Give your baby the best nutrition.,19219,41631,67406,200782,Messenger,India - West,25-34,Learn More,False
+AD_100876,Bebodywise,Nua Woman,2025-11-15,Give your baby the best nutrition.,6118,19620,23541,88360,Facebook,India - West,18-24,Learn More,False
+AD_100877,Bebodywise,Nua Woman,2026-01-11,Special festive discount live now.,16607,43721,22280,205828,Instagram,India - North,18-24,Order Now,True
+AD_100878,Man Matters,The Man Company,2026-01-17,Feel confident every day.,15827,40374,19017,81079,Facebook,India - South,25-34,Sign Up,False
+AD_100879,Bebodywise,Setu Nutrition,2025-11-24,Dermatologist tested and approved.,7493,28277,84379,159724,Audience Network,India - South,35-44,Shop Now,True
+AD_100880,Bebodywise,Plix,2026-01-27,Limited time offer! Get healthier skin today.,3808,32141,94109,199826,Facebook,India - South,18-24,Learn More,True
+AD_100881,Little Joys,Brainiac,2025-12-24,Dermatologist tested and approved.,16001,22863,23633,62404,Facebook,India - North,45-54,Sign Up,True
+AD_100882,Bebodywise,Nua Woman,2025-11-08,Dermatologist tested and approved.,4271,33700,7095,53763,Audience Network,India - South,18-24,Order Now,True
+AD_100883,Man Matters,Beardo,2025-09-25,Transform your hair naturally.,12676,37353,64040,111553,Audience Network,India - East,35-44,Shop Now,False
+AD_100884,Man Matters,The Man Company,2025-11-19,Limited time offer! Get healthier skin today.,15552,20578,18975,213018,Audience Network,India - East,18-24,Shop Now,True
+AD_100885,Little Joys,Brainiac,2025-11-23,Limited time offer! Get healthier skin today.,18035,31917,11829,123440,Instagram,India - North,25-34,Order Now,False
+AD_100886,Man Matters,Traya,2025-08-29,Flat 40% off on your first purchase.,14714,27631,55868,78272,Instagram,India - West,35-44,Order Now,False
+AD_100887,Man Matters,Beardo,2025-10-09,Dermatologist tested and approved.,5359,33436,46723,153749,Instagram,India - East,45-54,Shop Now,False
+AD_100888,Bebodywise,Plix,2025-11-05,Flat 40% off on your first purchase.,8152,21466,72216,189821,Messenger,India - South,45-54,Shop Now,False
+AD_100889,Little Joys,Supples,2026-01-02,Boost immunity with natural ingredients.,15753,34186,76584,273374,Messenger,India - South,18-24,Learn More,True
+AD_100890,Little Joys,Slurrp Farm,2026-01-08,Give your baby the best nutrition.,4165,33705,73750,161006,Audience Network,India - South,18-24,Learn More,False
+AD_100891,Man Matters,The Man Company,2026-01-26,Give your baby the best nutrition.,6134,16484,38402,61422,Facebook,India - West,35-44,Learn More,True
+AD_100892,Bebodywise,Plix,2026-02-13,Transform your hair naturally.,11738,18187,15657,149027,Instagram,India - West,18-24,Sign Up,True
+AD_100893,Man Matters,Beardo,2025-09-01,Special festive discount live now.,8850,24957,76807,99766,Instagram,India - East,25-34,Sign Up,True
+AD_100894,Man Matters,Traya,2025-12-22,Give your baby the best nutrition.,14717,38418,17503,138982,Facebook,India - South,35-44,Shop Now,True
+AD_100895,Bebodywise,Plix,2025-12-29,Clinically proven results in 30 days.,11788,34177,82516,190104,Messenger,India - West,35-44,Shop Now,True
+AD_100896,Little Joys,Slurrp Farm,2025-11-12,Special festive discount live now.,15036,20281,20206,130186,Messenger,India - West,35-44,Learn More,True
+AD_100897,Bebodywise,Setu Nutrition,2026-01-20,Boost immunity with natural ingredients.,4158,9944,13120,120498,Messenger,India - East,45-54,Sign Up,True
+AD_100898,Little Joys,Supples,2025-12-08,Transform your hair naturally.,19448,27449,59332,191832,Instagram,India - South,45-54,Learn More,False
+AD_100899,Bebodywise,Setu Nutrition,2025-10-18,Feel confident every day.,11624,20035,80233,257787,Audience Network,India - South,45-54,Sign Up,False
+AD_100900,Man Matters,Beardo,2026-02-17,Limited time offer! Get healthier skin today.,7372,36206,52914,109190,Instagram,India - North,35-44,Shop Now,True
+AD_100901,Bebodywise,Setu Nutrition,2025-11-03,Flat 40% off on your first purchase.,15818,41949,32477,147727,Facebook,India - North,25-34,Shop Now,True
+AD_100902,Man Matters,The Man Company,2025-12-30,Transform your hair naturally.,11746,34843,45591,238140,Messenger,India - West,25-34,Sign Up,True
+AD_100903,Man Matters,Beardo,2025-09-05,Doctor recommended wellness formula.,18541,30804,31904,222407,Audience Network,India - South,18-24,Sign Up,True
+AD_100904,Bebodywise,Plix,2025-08-28,Limited time offer! Get healthier skin today.,18847,35054,22894,53240,Facebook,India - South,45-54,Shop Now,False
+AD_100905,Little Joys,Brainiac,2025-12-21,Flat 40% off on your first purchase.,17163,28599,87699,223481,Audience Network,India - South,25-34,Order Now,False
+AD_100906,Man Matters,Beardo,2026-02-16,Doctor recommended wellness formula.,3719,26153,45744,207552,Instagram,India - South,45-54,Order Now,True
+AD_100907,Man Matters,The Man Company,2025-11-03,Transform your hair naturally.,19647,30057,38640,84499,Messenger,India - North,35-44,Sign Up,True
+AD_100908,Little Joys,Slurrp Farm,2025-11-29,Limited time offer! Get healthier skin today.,10571,24374,79619,225837,Messenger,India - South,25-34,Learn More,True
+AD_100909,Man Matters,The Man Company,2025-11-19,Give your baby the best nutrition.,12840,41450,63767,200834,Facebook,India - West,35-44,Order Now,True
+AD_100910,Man Matters,The Man Company,2026-01-25,Transform your hair naturally.,1319,22257,42179,134613,Facebook,India - East,25-34,Order Now,False
+AD_100911,Man Matters,Beardo,2025-12-15,Special festive discount live now.,5128,29198,73890,241216,Audience Network,India - East,45-54,Order Now,True
+AD_100912,Man Matters,Beardo,2025-10-16,Clinically proven results in 30 days.,9143,30145,6772,184397,Facebook,India - West,18-24,Learn More,False
+AD_100913,Bebodywise,Nua Woman,2025-09-19,Transform your hair naturally.,17856,41458,85448,210910,Instagram,India - North,35-44,Learn More,False
+AD_100914,Man Matters,Beardo,2025-10-31,Boost immunity with natural ingredients.,6335,32174,47296,189124,Audience Network,India - South,18-24,Shop Now,False
+AD_100915,Little Joys,Supples,2025-12-10,Give your baby the best nutrition.,17115,21931,45551,97166,Facebook,India - West,25-34,Sign Up,True
+AD_100916,Man Matters,The Man Company,2025-10-09,Boost immunity with natural ingredients.,5560,15047,51462,165388,Messenger,India - North,35-44,Learn More,True
+AD_100917,Man Matters,The Man Company,2025-08-28,Flat 40% off on your first purchase.,6123,11898,58573,204333,Instagram,India - South,35-44,Order Now,True
+AD_100918,Little Joys,Supples,2025-12-04,Boost immunity with natural ingredients.,14069,19767,92295,230030,Instagram,India - West,35-44,Order Now,False
+AD_100919,Little Joys,Supples,2026-02-07,Flat 40% off on your first purchase.,10962,32820,95835,280958,Audience Network,India - West,18-24,Sign Up,False
+AD_100920,Man Matters,The Man Company,2026-01-02,Limited time offer! Get healthier skin today.,3840,11067,25380,108246,Instagram,India - South,35-44,Shop Now,False
+AD_100921,Bebodywise,Nua Woman,2025-12-19,Give your baby the best nutrition.,5749,22991,51005,196668,Facebook,India - East,45-54,Order Now,False
+AD_100922,Little Joys,Supples,2025-10-05,Clinically proven results in 30 days.,19828,40105,66731,131684,Instagram,India - South,18-24,Sign Up,False
+AD_100923,Man Matters,Traya,2026-02-01,Flat 40% off on your first purchase.,10217,35802,72282,241744,Instagram,India - East,18-24,Order Now,True
+AD_100924,Little Joys,Slurrp Farm,2026-01-04,Transform your hair naturally.,3359,5843,54576,247630,Instagram,India - East,35-44,Shop Now,False
+AD_100925,Bebodywise,Setu Nutrition,2025-12-25,Doctor recommended wellness formula.,1699,15983,37373,166233,Facebook,India - South,18-24,Sign Up,False
+AD_100926,Man Matters,The Man Company,2026-01-02,Special festive discount live now.,2907,5988,85283,103609,Instagram,India - East,35-44,Sign Up,False
+AD_100927,Man Matters,Traya,2025-12-11,Transform your hair naturally.,16659,19265,97683,204368,Facebook,India - West,18-24,Sign Up,False
+AD_100928,Bebodywise,Setu Nutrition,2025-09-03,Flat 40% off on your first purchase.,13126,39438,54123,100587,Audience Network,India - East,25-34,Sign Up,False
+AD_100929,Man Matters,The Man Company,2026-02-03,Clinically proven results in 30 days.,15539,45160,76105,118044,Messenger,India - South,18-24,Sign Up,True
+AD_100930,Little Joys,Slurrp Farm,2026-01-21,Special festive discount live now.,13715,35449,53290,96141,Messenger,India - West,35-44,Order Now,True
+AD_100931,Man Matters,Traya,2025-11-22,Flat 40% off on your first purchase.,16719,36932,72313,247803,Facebook,India - South,25-34,Order Now,True
+AD_100932,Man Matters,Traya,2026-01-16,Give your baby the best nutrition.,5973,24297,21240,152927,Instagram,India - East,45-54,Sign Up,False
+AD_100933,Man Matters,Traya,2025-11-16,Boost immunity with natural ingredients.,9263,29831,88253,111232,Audience Network,India - West,25-34,Order Now,False
+AD_100934,Bebodywise,Plix,2025-10-31,Doctor recommended wellness formula.,8675,34684,78895,241012,Audience Network,India - East,45-54,Learn More,True
+AD_100935,Little Joys,Brainiac,2026-02-16,Dermatologist tested and approved.,13786,33781,45801,167350,Instagram,India - South,35-44,Shop Now,False
+AD_100936,Man Matters,Beardo,2025-09-19,Flat 40% off on your first purchase.,13835,28585,17352,74440,Instagram,India - East,35-44,Order Now,True
+AD_100937,Man Matters,The Man Company,2025-12-31,Doctor recommended wellness formula.,4176,12294,70042,119032,Instagram,India - West,35-44,Shop Now,True
+AD_100938,Man Matters,Traya,2025-09-27,Feel confident every day.,19985,44388,47642,97967,Facebook,India - West,18-24,Learn More,False
+AD_100939,Man Matters,Beardo,2025-12-31,Dermatologist tested and approved.,16431,26355,32112,183192,Instagram,India - East,18-24,Sign Up,False
+AD_100940,Man Matters,The Man Company,2026-02-11,Dermatologist tested and approved.,8661,24600,30235,151495,Facebook,India - South,35-44,Order Now,True
+AD_100941,Man Matters,Beardo,2025-12-29,Special festive discount live now.,1417,10046,88649,104759,Instagram,India - South,45-54,Order Now,False
+AD_100942,Bebodywise,Setu Nutrition,2025-11-26,Clinically proven results in 30 days.,7889,14105,20253,219754,Messenger,India - South,35-44,Sign Up,False
+AD_100943,Man Matters,Beardo,2026-02-04,Give your baby the best nutrition.,9661,38097,89679,267132,Instagram,India - South,45-54,Sign Up,False
+AD_100944,Bebodywise,Setu Nutrition,2025-11-29,Give your baby the best nutrition.,17061,42470,95603,236134,Facebook,India - West,45-54,Sign Up,False
+AD_100945,Little Joys,Slurrp Farm,2026-01-21,Dermatologist tested and approved.,11654,25317,21937,46601,Facebook,India - West,25-34,Order Now,True
+AD_100946,Bebodywise,Nua Woman,2025-11-22,Boost immunity with natural ingredients.,2609,26818,26562,146227,Facebook,India - South,25-34,Order Now,True
+AD_100947,Man Matters,Traya,2025-09-27,Limited time offer! Get healthier skin today.,12009,27759,13715,192068,Facebook,India - North,35-44,Sign Up,True
+AD_100948,Bebodywise,Nua Woman,2025-11-07,Transform your hair naturally.,9875,18523,61946,214854,Instagram,India - West,45-54,Learn More,False
+AD_100949,Little Joys,Supples,2025-10-19,Limited time offer! Get healthier skin today.,19488,36918,99494,292322,Messenger,India - North,25-34,Sign Up,True
+AD_100950,Man Matters,Beardo,2025-12-24,Boost immunity with natural ingredients.,6569,21556,36025,102198,Messenger,India - South,45-54,Sign Up,True
+AD_100951,Man Matters,Traya,2025-10-29,Limited time offer! Get healthier skin today.,5690,32312,11117,121390,Facebook,India - South,35-44,Learn More,True
+AD_100952,Bebodywise,Nua Woman,2026-02-08,Limited time offer! Get healthier skin today.,6046,14017,35223,184242,Audience Network,India - North,18-24,Shop Now,False
+AD_100953,Man Matters,The Man Company,2025-12-03,Dermatologist tested and approved.,16636,31040,48643,106036,Messenger,India - East,25-34,Shop Now,False
+AD_100954,Bebodywise,Setu Nutrition,2026-01-24,Clinically proven results in 30 days.,2540,15728,45928,216602,Instagram,India - South,35-44,Learn More,False
+AD_100955,Little Joys,Supples,2025-12-01,Boost immunity with natural ingredients.,10689,25763,28420,225190,Facebook,India - West,35-44,Learn More,False
+AD_100956,Bebodywise,Setu Nutrition,2025-10-03,Doctor recommended wellness formula.,18848,25362,11350,132684,Audience Network,India - South,25-34,Order Now,True
+AD_100957,Little Joys,Slurrp Farm,2026-02-01,Special festive discount live now.,6551,24766,20603,101011,Messenger,India - South,35-44,Learn More,True
+AD_100958,Bebodywise,Nua Woman,2025-10-10,Dermatologist tested and approved.,16661,28875,24989,194585,Instagram,India - East,35-44,Sign Up,False
+AD_100959,Bebodywise,Plix,2025-09-15,Feel confident every day.,17228,33610,43048,58390,Messenger,India - East,18-24,Learn More,True
+AD_100960,Bebodywise,Nua Woman,2025-10-24,Give your baby the best nutrition.,2702,13976,18618,87384,Instagram,India - North,35-44,Order Now,False
+AD_100961,Man Matters,The Man Company,2025-09-01,Transform your hair naturally.,7960,12899,7374,145082,Instagram,India - South,35-44,Shop Now,True
+AD_100962,Bebodywise,Setu Nutrition,2025-10-29,Dermatologist tested and approved.,6874,12899,46231,221491,Instagram,India - North,25-34,Order Now,True
+AD_100963,Man Matters,Beardo,2025-10-02,Limited time offer! Get healthier skin today.,14552,38995,47342,168709,Audience Network,India - North,45-54,Shop Now,True
+AD_100964,Little Joys,Slurrp Farm,2026-02-06,Limited time offer! Get healthier skin today.,6991,20422,38803,198460,Instagram,India - South,18-24,Shop Now,True
+AD_100965,Man Matters,Traya,2026-01-06,Special festive discount live now.,12583,39944,34604,203370,Facebook,India - South,35-44,Order Now,False
+AD_100966,Bebodywise,Plix,2026-01-06,Boost immunity with natural ingredients.,2812,13189,44836,204235,Audience Network,India - West,25-34,Order Now,False
+AD_100967,Bebodywise,Setu Nutrition,2025-09-07,Clinically proven results in 30 days.,6699,15167,54163,77567,Audience Network,India - South,45-54,Shop Now,True
+AD_100968,Man Matters,Traya,2025-09-04,Doctor recommended wellness formula.,10732,16600,97534,128756,Facebook,India - South,18-24,Order Now,True
+AD_100969,Bebodywise,Nua Woman,2025-10-11,Give your baby the best nutrition.,6887,20793,17406,118924,Instagram,India - East,18-24,Sign Up,False
+AD_100970,Bebodywise,Setu Nutrition,2025-09-14,Doctor recommended wellness formula.,9899,22592,66830,150800,Facebook,India - South,35-44,Learn More,True
+AD_100971,Man Matters,Beardo,2026-01-12,Clinically proven results in 30 days.,10736,36854,20554,207158,Audience Network,India - South,25-34,Shop Now,True
+AD_100972,Man Matters,Beardo,2025-10-26,Boost immunity with natural ingredients.,4973,12591,29854,128162,Instagram,India - West,35-44,Shop Now,True
+AD_100973,Little Joys,Supples,2025-11-07,Flat 40% off on your first purchase.,15622,33445,33360,132927,Messenger,India - North,35-44,Sign Up,False
+AD_100974,Man Matters,The Man Company,2025-11-24,Limited time offer! Get healthier skin today.,18709,47891,31012,54925,Facebook,India - South,18-24,Order Now,True
+AD_100975,Bebodywise,Nua Woman,2025-10-04,Give your baby the best nutrition.,9880,34836,49008,132411,Messenger,India - West,25-34,Order Now,False
+AD_100976,Little Joys,Slurrp Farm,2025-11-29,Limited time offer! Get healthier skin today.,18135,42750,7433,56537,Audience Network,India - South,25-34,Order Now,False
+AD_100977,Man Matters,The Man Company,2025-11-10,Boost immunity with natural ingredients.,10269,13711,46553,182378,Facebook,India - South,25-34,Learn More,True
+AD_100978,Man Matters,Beardo,2025-09-16,Transform your hair naturally.,7115,34314,70780,209590,Audience Network,India - North,35-44,Learn More,False
+AD_100979,Man Matters,The Man Company,2026-01-27,Limited time offer! Get healthier skin today.,7681,23948,21777,163554,Audience Network,India - West,25-34,Learn More,True
+AD_100980,Man Matters,Traya,2025-09-29,Clinically proven results in 30 days.,3702,8309,92753,184896,Instagram,India - West,25-34,Shop Now,False
+AD_100981,Man Matters,Beardo,2026-02-05,Clinically proven results in 30 days.,13271,15741,16561,114128,Audience Network,India - East,18-24,Learn More,True
+AD_100982,Man Matters,Beardo,2025-10-09,Give your baby the best nutrition.,3053,20931,35604,96623,Instagram,India - South,18-24,Shop Now,True
+AD_100983,Little Joys,Brainiac,2026-01-09,Doctor recommended wellness formula.,7403,13035,42107,155486,Facebook,India - East,18-24,Learn More,True
+AD_100984,Bebodywise,Setu Nutrition,2025-12-26,Limited time offer! Get healthier skin today.,3205,21351,30133,138574,Messenger,India - North,25-34,Order Now,True
+AD_100985,Man Matters,Traya,2025-10-23,Doctor recommended wellness formula.,8527,26033,93809,134375,Audience Network,India - West,45-54,Sign Up,True
+AD_100986,Bebodywise,Setu Nutrition,2025-11-29,Special festive discount live now.,14700,31683,65686,220621,Audience Network,India - East,18-24,Order Now,False
+AD_100987,Man Matters,Beardo,2026-01-20,Give your baby the best nutrition.,15295,39879,7519,55835,Facebook,India - South,35-44,Order Now,False
+AD_100988,Man Matters,The Man Company,2025-09-01,Feel confident every day.,1218,5825,60450,112098,Instagram,India - East,18-24,Shop Now,True
+AD_100989,Little Joys,Slurrp Farm,2025-10-10,Give your baby the best nutrition.,9649,28964,83276,181233,Audience Network,India - North,35-44,Shop Now,False
+AD_100990,Man Matters,Traya,2025-10-06,Boost immunity with natural ingredients.,13241,28920,74492,157387,Instagram,India - East,25-34,Order Now,False
+AD_100991,Little Joys,Slurrp Farm,2025-09-28,Transform your hair naturally.,2981,9651,17197,107322,Messenger,India - East,35-44,Order Now,True
+AD_100992,Man Matters,Beardo,2025-12-29,Feel confident every day.,1933,6100,19172,38456,Messenger,India - South,18-24,Shop Now,False
+AD_100993,Bebodywise,Setu Nutrition,2026-01-17,Doctor recommended wellness formula.,10269,36397,26640,39432,Messenger,India - South,25-34,Shop Now,True
+AD_100994,Bebodywise,Plix,2026-01-08,Special festive discount live now.,19133,41689,76382,108048,Instagram,India - North,45-54,Order Now,False
+AD_100995,Bebodywise,Setu Nutrition,2026-02-01,Transform your hair naturally.,11525,38070,35118,83362,Audience Network,India - North,35-44,Sign Up,False
+AD_100996,Little Joys,Slurrp Farm,2025-09-25,Feel confident every day.,8416,35403,37049,164297,Messenger,India - South,35-44,Shop Now,False
+AD_100997,Little Joys,Supples,2025-12-13,Special festive discount live now.,16624,37090,93090,224668,Audience Network,India - East,18-24,Order Now,False
+AD_100998,Bebodywise,Nua Woman,2026-01-15,Boost immunity with natural ingredients.,16479,40615,74484,200180,Instagram,India - South,45-54,Learn More,False
+AD_100999,Little Joys,Supples,2025-09-08,Give your baby the best nutrition.,9324,18445,15661,27549,Messenger,India - West,45-54,Shop Now,False
